@@ -1,19 +1,19 @@
 from django.views.generic import View
 from django.http import JsonResponse
 from menu.models import Menu
+import json
 
 # Create your views here.
 class MenuView(View):
-    def get(self, request):
+    def post(self, request):
         try:
             # TODO 1 : 비어 있는 param 가 없는 지 검증
+            req_body = json.loads(request.body)
             param_dict = {}
-            param_dict['date'] = request.GET.get('date')
-            param_dict['cycle'] = request.GET.get('cycle')
-            param_dict['location'] = request.GET.get('location')
+            param_dict['date'] = req_body.get('action').get('params').get('date')
+            param_dict['cycle'] = req_body.get('action').get('params').get('cycle')
+            param_dict['location'] = req_body.get('action').get('params').get('location')
             for key, value in param_dict.items():
-                print(key)
-                print(value)
                 if value is None:
                     raise Exception(key)       
         except Exception as e:
@@ -23,7 +23,7 @@ class MenuView(View):
                         } ,status=400)
         try:
             # TODO 2 : param 으로 3개 값 받기(date, cycle, location)
-            menu_obj = Menu.objects.get(date=request.GET.get('date'), cycle=request.GET.get('cycle'), location=request.GET.get('location'))
+            menu_obj = Menu.objects.get(date=param_dict['date'], cycle=param_dict['cycle'], location=param_dict['location'])
         except Exception:
             return JsonResponse({
                         'error': '1',
