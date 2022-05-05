@@ -15,7 +15,7 @@ class MenuView(View):
             param_dict['location'] = req_body.get('action').get('params').get('location')
             for key, value in param_dict.items():
                 if value is None:
-                    raise Exception(key)       
+                    raise Exception(key)
         except Exception as e:
             return JsonResponse({
                         'version': '2',
