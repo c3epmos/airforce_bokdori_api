@@ -9,10 +9,11 @@ class Menu(models.Model):
     )
     location_choices = (
         ('칠성병사식당', '칠성병사식당'),
-        ('보라매병사식당', '보라매병사식당'),
+        #('보라매병사식당', '보라매병사식당'),
         ('독수리회관', '독수리회관'),
         ('다미정', '다미정'),
-        ('보라매식당', '보라매식당')
+        ('보라매식당', '보라매식당'),
+        ('영공','영공')
     )
 
     date = models.DateField()
@@ -23,3 +24,4 @@ class Menu(models.Model):
     menu3 = models.CharField(max_length=100, null=True, blank=True)
     menu4 = models.CharField(max_length=100, null=True, blank=True)
     menu5 = models.CharField(max_length=100, null=True, blank=True)
+    #menu6 = models.CharField(max_length=100, null=True, blank=True)
