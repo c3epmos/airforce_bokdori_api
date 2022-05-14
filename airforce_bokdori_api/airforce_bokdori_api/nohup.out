@@ -2914,3 +2914,60 @@ Not Found: /favicon.ico
 [14/May/2022 02:17:36] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
 [14/May/2022 02:17:36] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
 [14/May/2022 02:17:36] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /.env
+[14/May/2022 02:33:00] "GET /.env HTTP/1.1" 404 2207
+Not Found: /
+[14/May/2022 02:33:02] "POST / HTTP/1.1" 404 2178
+[14/May/2022 03:07:38] "POST /menu/ HTTP/1.1" 200 28
+[14/May/2022 03:09:49,547] - Broken pipe from ('94.232.43.33', 33971)
+
+[14/May/2022 03:09:49] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[14/May/2022 03:09:49] "  ,'à     Cookie: mstshash=Domain" 400 -
+[14/May/2022 03:09:50] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[14/May/2022 03:09:50] "  ,'à     Cookie: mstshash=Domain" 400 -
+Not Found: /
+[14/May/2022 03:21:03] "GET / HTTP/1.1" 404 2177
+Not Found: /
+[14/May/2022 04:19:25] "GET / HTTP/1.1" 404 2180
+[14/May/2022 04:48:31] code 400, message Bad request syntax ('MGLNDD_118.67.132.87_80')
+[14/May/2022 04:48:31] "MGLNDD_118.67.132.87_80" 400 -
+Not Found: /
+[14/May/2022 04:59:20] "GET / HTTP/1.1" 404 2188
+[14/May/2022 04:59:20,539] - Broken pipe from ('187.108.63.143', 52042)
+
+Not Found: /
+[14/May/2022 05:01:35] "GET / HTTP/1.1" 404 2180
+/opt/airforce_bokdori_api/airforce_bokdori_api/airforce_bokdori_api/airforce_bokdori_api/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 05, 2022 - 12:09:57
+Django version 4.0.4, using settings 'airforce_bokdori_api.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    main()
+  File "manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/site-packages/django/core/management/__init__.py", line 446, in execute_from_command_line
+    utility.execute()
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/site-packages/django/core/management/__init__.py", line 386, in execute
+    settings.INSTALLED_APPS
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/site-packages/django/conf/__init__.py", line 87, in __getattr__
+    self._setup(name)
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/site-packages/django/conf/__init__.py", line 74, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/site-packages/django/conf/__init__.py", line 183, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/root/anaconda3/envs/airforce-bokdori-api/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airforce_bokdori_api/airforce_bokdori_api/airforce_bokdori_api/airforce_bokdori_api/settings.py", line 119, in <module>
+    STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+NameError: name 'os' is not defined
