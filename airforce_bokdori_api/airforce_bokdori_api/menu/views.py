@@ -31,7 +31,7 @@ class MenuView(View):
                         'version': '2',
                         'data': {},
                         } ,status=200)
-        # TODO 3 : 요청 param 에 일치하는 queryset 추출 후 json 응답
+        # TODO 3 : 요청 param 에 일치하는 queryset 추출 후 json 응답 #ㅎㅎ
         return JsonResponse({
             'version': '2',
             'data': {
