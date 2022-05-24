@@ -7,7 +7,7 @@ import json
 class MenuView(View):
     def post(self, request):
         try:
-            # TODO 1 : 비어 있는 param 가 없는 지 검증
+            # TODO 1 : 비어 있는 param 가 없는 지 검증..
             req_body = json.loads(request.body)
             param_dict = {}
             param_dict['date'] = json.loads(req_body.get('action').get('params').get('date')).get('date')
