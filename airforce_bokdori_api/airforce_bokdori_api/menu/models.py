@@ -14,6 +14,7 @@ class Menu(models.Model):
         ('다미정', '다미정'),
         ('보라매식당', '보라매식당'),
         ('영공','영공')
+        ('BBQ','BBQ')
     )
 
     date = models.DateField()
