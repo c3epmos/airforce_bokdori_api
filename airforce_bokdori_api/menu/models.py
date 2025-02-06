@@ -10,7 +10,6 @@ class Menu(models.Model):
     location_choices = (
         ('독수리회관', '독수리회관'),
         ('시루정', '시루정'),
-        ('영공', '영공')
     )
 
     date = models.DateField()
