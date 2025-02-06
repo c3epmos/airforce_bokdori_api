@@ -18,6 +18,6 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='menu',
             name='location',
-            field=models.CharField(choices=[('칠성병사식당', '칠성병사식당'), ('보라매병사식당', '보라매병사식당'), ('독수리회관', '독수리회관'), ('다미정', '다미정'), ('보라매식당', '보라매식당')], max_length=100),
+            field=models.CharField(choices=[('독수리회관', '독수리회관'), ('시루정', '시루정')], max_length=100),
         ),
     ]
